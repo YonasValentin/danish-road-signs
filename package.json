@@ -62,7 +62,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yonas-valentin/danish-road-signs"
+    "url": "https://github.com/YonasValentin/danish-road-signs"
   },
   "peerDependencies": {
     "react": "^18.0.0",
