@@ -1,0 +1,2965 @@
+{
+  "scrapedAt": "2025-11-05T15:47:01.224Z",
+  "source": "https://en.wikipedia.org/wiki/Road_signs_in_Denmark",
+  "totalSigns": 392,
+  "uniqueSigns": 367,
+  "duplicatesRemoved": 25,
+  "successfulDownloads": 367,
+  "failedDownloads": 0,
+  "categoryCounts": {
+    "Road_Signs": 367
+  },
+  "signs": [
+    {
+      "filename": "A11.svg",
+      "signCode": "A11",
+      "category": "warning",
+      "description": "A11: Dangerous junction with a non-priority road (Variants:  and )",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Denmark_road_sign_A11.svg",
+      "downloadedAt": "2025-11-05T15:41:55.470Z"
+    },
+    {
+      "filename": "A16.svg",
+      "signCode": "A16",
+      "category": "warning",
+      "description": "A16: Roundabout",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Denmark_road_sign_A16.svg",
+      "downloadedAt": "2025-11-05T15:41:56.150Z"
+    },
+    {
+      "filename": "A17.svg",
+      "signCode": "A17",
+      "category": "warning",
+      "description": "A17: Pedestrian crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Denmark_road_sign_A17.svg",
+      "downloadedAt": "2025-11-05T15:41:56.870Z"
+    },
+    {
+      "filename": "A18.svg",
+      "signCode": "A18",
+      "category": "warning",
+      "description": "A18: Two-way traffic",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Denmark_road_sign_A18.svg",
+      "downloadedAt": "2025-11-05T15:41:57.591Z"
+    },
+    {
+      "filename": "A19.svg",
+      "signCode": "A19",
+      "category": "warning",
+      "description": "A19: Traffic signals",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Denmark_road_sign_A19.svg",
+      "downloadedAt": "2025-11-05T15:41:58.271Z"
+    },
+    {
+      "filename": "A20.svg",
+      "signCode": "A20",
+      "category": "warning",
+      "description": "A20: Traffic queue",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Denmark_road_sign_A20.svg",
+      "downloadedAt": "2025-11-05T15:41:58.969Z"
+    },
+    {
+      "filename": "A21.svg",
+      "signCode": "A21",
+      "category": "warning",
+      "description": "A21: Cyclists",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Denmark_road_sign_A21.svg",
+      "downloadedAt": "2025-11-05T15:41:59.729Z"
+    },
+    {
+      "filename": "A22.svg",
+      "signCode": "A22",
+      "category": "warning",
+      "description": "A22: Children",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Denmark_road_sign_A22.svg",
+      "downloadedAt": "2025-11-05T15:42:00.435Z"
+    },
+    {
+      "filename": "UA22.svg",
+      "signCode": "UA22",
+      "category": "subpanels",
+      "description": "UA22: School",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Denmark_road_sign_UA22.1.svg",
+      "downloadedAt": "2025-11-05T15:42:01.129Z"
+    },
+    {
+      "filename": "A23.svg",
+      "signCode": "A23",
+      "category": "warning",
+      "description": "A23: Equestrians",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Denmark_road_sign_A23.svg",
+      "downloadedAt": "2025-11-05T15:42:01.849Z"
+    },
+    {
+      "filename": "A26.svg",
+      "signCode": "A26",
+      "category": "warning",
+      "description": "A26: Wild animals crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Denmark_road_sign_A26.svg",
+      "downloadedAt": "2025-11-05T15:42:02.550Z"
+    },
+    {
+      "filename": "A27.svg",
+      "signCode": "A27",
+      "category": "warning",
+      "description": "A27: Domestic animals",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Denmark_road_sign_A27.svg",
+      "downloadedAt": "2025-11-05T15:42:03.319Z"
+    },
+    {
+      "filename": "A31.svg",
+      "signCode": "A31",
+      "category": "warning",
+      "description": "A31: Slippery road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Denmark_road_sign_A31.svg",
+      "downloadedAt": "2025-11-05T15:42:04.080Z"
+    },
+    {
+      "filename": "UA31.svg",
+      "signCode": "UA31",
+      "category": "subpanels",
+      "description": "UA31: Road can be icy",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Denmark_road_sign_UA31.svg",
+      "downloadedAt": "2025-11-05T15:42:04.750Z"
+    },
+    {
+      "filename": "A33.svg",
+      "signCode": "A33",
+      "category": "warning",
+      "description": "A33: Loose chippings",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Denmark_road_sign_A33.svg",
+      "downloadedAt": "2025-11-05T15:42:05.454Z"
+    },
+    {
+      "filename": "A34.svg",
+      "signCode": "A34",
+      "category": "warning",
+      "description": "A34: Rockfall",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Denmark_road_sign_A34.svg",
+      "downloadedAt": "2025-11-05T15:42:06.179Z"
+    },
+    {
+      "filename": "A35.svg",
+      "signCode": "A35",
+      "category": "warning",
+      "description": "A35: Dangerous shoulder",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Denmark_road_sign_A35.svg",
+      "downloadedAt": "2025-11-05T15:42:06.989Z"
+    },
+    {
+      "filename": "A36.svg",
+      "signCode": "A36",
+      "category": "warning",
+      "description": "A36: Speed bump",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Denmark_road_sign_A36.svg",
+      "downloadedAt": "2025-11-05T15:42:07.709Z"
+    },
+    {
+      "filename": "A36.1.svg",
+      "signCode": "A36.1",
+      "category": "warning",
+      "description": "A36.1: Actibump[fn 4]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/A36._1_actibump.svg",
+      "downloadedAt": "2025-11-05T15:42:08.564Z"
+    },
+    {
+      "filename": "A37.svg",
+      "signCode": "A37",
+      "category": "warning",
+      "description": "A37: Uneven road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Denmark_road_sign_A37.svg",
+      "downloadedAt": "2025-11-05T15:42:09.277Z"
+    },
+    {
+      "filename": "A38.svg",
+      "signCode": "A38",
+      "category": "warning",
+      "description": "A38: Dip",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/A38_dip.svg",
+      "downloadedAt": "2025-11-05T15:42:09.969Z"
+    },
+    {
+      "filename": "A39.svg",
+      "signCode": "A39",
+      "category": "warning",
+      "description": "A39: Roadworks",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Denmark_road_sign_A39.svg",
+      "downloadedAt": "2025-11-05T15:42:10.662Z"
+    },
+    {
+      "filename": "A41.1.svg",
+      "signCode": "A41.1",
+      "category": "warning",
+      "description": "A41.1: Curve to the right",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Denmark_road_sign_A41.1.svg",
+      "downloadedAt": "2025-11-05T15:42:11.375Z"
+    },
+    {
+      "filename": "A41.2.svg",
+      "signCode": "A41.2",
+      "category": "warning",
+      "description": "A41.2: Curve to the left",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Denmark_road_sign_A41.2.svg",
+      "downloadedAt": "2025-11-05T15:42:12.229Z"
+    },
+    {
+      "filename": "A42.1.svg",
+      "signCode": "A42.1",
+      "category": "warning",
+      "description": "A42.1: Multiple curves, first to the right",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Denmark_road_sign_A42.1.svg",
+      "downloadedAt": "2025-11-05T15:42:12.962Z"
+    },
+    {
+      "filename": "A42.2.svg",
+      "signCode": "A42.2",
+      "category": "warning",
+      "description": "A42.2: Multiple curves, first to the left",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Denmark_road_sign_A42.2.svg",
+      "downloadedAt": "2025-11-05T15:42:13.700Z"
+    },
+    {
+      "filename": "UA41.svg",
+      "signCode": "UA41",
+      "category": "subpanels",
+      "description": "UA41: Recommended speed in curves",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Denmark_road_sign_UA41.svg",
+      "downloadedAt": "2025-11-05T15:42:14.527Z"
+    },
+    {
+      "filename": "A43.1.svg",
+      "signCode": "A43.1",
+      "category": "warning",
+      "description": "A43.1: Road narrows",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Denmark_road_sign_A43.1.svg",
+      "downloadedAt": "2025-11-05T15:42:15.219Z"
+    },
+    {
+      "filename": "UA43.1.svg",
+      "signCode": "UA43.1",
+      "category": "subpanels",
+      "description": "UA43.1: Narrow road[fn 5]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Denmark_road_sign_UA43_1.svg",
+      "downloadedAt": "2025-11-05T15:42:15.919Z"
+    },
+    {
+      "filename": "A43.2.svg",
+      "signCode": "A43.2",
+      "category": "warning",
+      "description": "A43.2: Road narrows to the left",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Denmark_road_sign_A43.2.svg",
+      "downloadedAt": "2025-11-05T15:42:16.629Z"
+    },
+    {
+      "filename": "A43.3.svg",
+      "signCode": "A43.3",
+      "category": "warning",
+      "description": "A43.3: Road narrows to the right",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Denmark_road_sign_A43.3.svg",
+      "downloadedAt": "2025-11-05T15:42:17.475Z"
+    },
+    {
+      "filename": "UA43.svg",
+      "signCode": "UA43",
+      "category": "subpanels",
+      "description": "UA43: Width limit",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Denmark_road_sign_UA43.svg",
+      "downloadedAt": "2025-11-05T15:42:18.270Z"
+    },
+    {
+      "filename": "A44.svg",
+      "signCode": "A44",
+      "category": "warning",
+      "description": "A44: Tunnel (formerly used )",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/A44_dk.svg",
+      "downloadedAt": "2025-11-05T15:42:18.949Z"
+    },
+    {
+      "filename": "A46.1.svg",
+      "signCode": "A46.1",
+      "category": "warning",
+      "description": "A46.1 Downward gradient",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Denmark_road_sign_A46.1.svg",
+      "downloadedAt": "2025-11-05T15:42:19.648Z"
+    },
+    {
+      "filename": "A46.2.svg",
+      "signCode": "A46.2",
+      "category": "warning",
+      "description": "A46.2: Upward gradient",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Denmark_road_sign_A46.2.svg",
+      "downloadedAt": "2025-11-05T15:42:20.389Z"
+    },
+    {
+      "filename": "A72.svg",
+      "signCode": "A72",
+      "category": "warning",
+      "description": "A72: Level crossing without gates",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Denmark_road_sign_A72.svg",
+      "downloadedAt": "2025-11-05T15:42:21.311Z"
+    },
+    {
+      "filename": "UA72.svg",
+      "signCode": "UA72",
+      "category": "subpanels",
+      "description": "UA72: Watch out for trains",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Denmark_road_sign_UA72.svg",
+      "downloadedAt": "2025-11-05T15:42:21.968Z"
+    },
+    {
+      "filename": "A73.svg",
+      "signCode": "A73",
+      "category": "warning",
+      "description": "A73: Level crossing with gates",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Denmark_road_sign_A73.svg",
+      "downloadedAt": "2025-11-05T15:42:22.761Z"
+    },
+    {
+      "filename": "UA73.svg",
+      "signCode": "UA73",
+      "category": "subpanels",
+      "description": "UA73: Overhead electricity lines at level crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Denmark_road_sign_UA73.svg",
+      "downloadedAt": "2025-11-05T15:42:23.620Z"
+    },
+    {
+      "filename": "A74.1.svg",
+      "signCode": "A74.1",
+      "category": "warning",
+      "description": "A74.1: Single track level crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Denmark_road_sign_A74.1.svg",
+      "downloadedAt": "2025-11-05T15:42:24.338Z"
+    },
+    {
+      "filename": "A74.2.svg",
+      "signCode": "A74.2",
+      "category": "warning",
+      "description": "A74.2: Multi track level crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Denmark_road_sign_A74.2.svg",
+      "downloadedAt": "2025-11-05T15:42:25.052Z"
+    },
+    {
+      "filename": "A75.svg",
+      "signCode": "A75",
+      "category": "warning",
+      "description": "A75: Distance to level crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Denmark_road_sign_A75.svg",
+      "downloadedAt": "2025-11-05T15:42:25.648Z"
+    },
+    {
+      "filename": "A91.svg",
+      "signCode": "A91",
+      "category": "warning",
+      "description": "A91: Opening bridge",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Denmark_road_sign_A91.svg",
+      "downloadedAt": "2025-11-05T15:42:26.489Z"
+    },
+    {
+      "filename": "A92.svg",
+      "signCode": "A92",
+      "category": "warning",
+      "description": "A92: Quayside",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Denmark_road_sign_A92.svg",
+      "downloadedAt": "2025-11-05T15:42:27.210Z"
+    },
+    {
+      "filename": "A95.svg",
+      "signCode": "A95",
+      "category": "warning",
+      "description": "A95: Side winds",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Denmark_road_sign_A95.svg",
+      "downloadedAt": "2025-11-05T15:42:28.070Z"
+    },
+    {
+      "filename": "A96.svg",
+      "signCode": "A96",
+      "category": "warning",
+      "description": "A96: Low airplanes",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Denmark_road_sign_A96.svg",
+      "downloadedAt": "2025-11-05T15:42:28.729Z"
+    },
+    {
+      "filename": "A97.svg",
+      "signCode": "A97",
+      "category": "warning",
+      "description": "A97: Low helicopters",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Denmark_road_sign_A97.svg",
+      "downloadedAt": "2025-11-05T15:42:29.427Z"
+    },
+    {
+      "filename": "A99.svg",
+      "signCode": "A99",
+      "category": "warning",
+      "description": "A99: Other danger (specified on subpanel)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Denmark_road_sign_A99.svg",
+      "downloadedAt": "2025-11-05T15:42:30.468Z"
+    },
+    {
+      "filename": "UA99.svg",
+      "signCode": "UA99",
+      "category": "subpanels",
+      "description": "UA99: Accident-prone intersection",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Denmark_road_sign_UA99.svg",
+      "downloadedAt": "2025-11-05T15:42:31.188Z"
+    },
+    {
+      "filename": "B11.svg",
+      "signCode": "B11",
+      "category": "priority",
+      "description": "B11: Yield",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Denmark_road_sign_B11.svg",
+      "downloadedAt": "2025-11-05T15:42:31.848Z"
+    },
+    {
+      "filename": "UB11.1.svg",
+      "signCode": "UB11.1",
+      "category": "subpanels",
+      "description": "UB11.1: Stop ahead",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Denmark_road_sign_UB11_1.svg",
+      "downloadedAt": "2025-11-05T15:42:32.548Z"
+    },
+    {
+      "filename": "UB11.2.svg",
+      "signCode": "UB11.2",
+      "category": "subpanels",
+      "description": "UB11.2: Two-way cycle track or lane crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Denmark_road_sign_UB11.2.svg",
+      "downloadedAt": "2025-11-05T15:42:33.422Z"
+    },
+    {
+      "filename": "UB11.3.svg",
+      "signCode": "UB11.3",
+      "category": "subpanels",
+      "description": "UB11.3: Light rail crossing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Denmark_road_sign_UB11.3.svg",
+      "downloadedAt": "2025-11-05T15:42:34.119Z"
+    },
+    {
+      "filename": "B13.svg",
+      "signCode": "B13",
+      "category": "priority",
+      "description": "B13: Stop",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Denmark_road_sign_B13.svg",
+      "downloadedAt": "2025-11-05T15:42:34.771Z"
+    },
+    {
+      "filename": "B15.svg",
+      "signCode": "B15",
+      "category": "priority",
+      "description": "B15: Lane merge",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Denmark_road_sign_B15.svg",
+      "downloadedAt": "2025-11-05T15:42:35.458Z"
+    },
+    {
+      "filename": "B16.svg",
+      "signCode": "B16",
+      "category": "priority",
+      "description": "B16: Main road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Denmark_road_sign_B16.svg",
+      "downloadedAt": "2025-11-05T15:42:36.150Z"
+    },
+    {
+      "filename": "B17.svg",
+      "signCode": "B17",
+      "category": "priority",
+      "description": "B17: End of main road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Denmark_road_sign_B17.svg",
+      "downloadedAt": "2025-11-05T15:42:36.869Z"
+    },
+    {
+      "filename": "B18.svg",
+      "signCode": "B18",
+      "category": "priority",
+      "description": "B18: Priority for oncoming vehicles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Denmark_road_sign_B18.svg",
+      "downloadedAt": "2025-11-05T15:42:37.447Z"
+    },
+    {
+      "filename": "B19.svg",
+      "signCode": "B19",
+      "category": "priority",
+      "description": "B19: Priority over oncoming vehicles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Denmark_road_sign_B19.svg",
+      "downloadedAt": "2025-11-05T15:42:38.147Z"
+    },
+    {
+      "filename": "C11.1.svg",
+      "signCode": "C11.1",
+      "category": "prohibitory",
+      "description": "C11.1: No right turn",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Denmark_road_sign_C11.1.svg",
+      "downloadedAt": "2025-11-05T15:42:38.807Z"
+    },
+    {
+      "filename": "C11.2.svg",
+      "signCode": "C11.2",
+      "category": "prohibitory",
+      "description": "C11.2: No left turn[fn 6]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Denmark_road_sign_C11.2.svg",
+      "downloadedAt": "2025-11-05T15:42:39.592Z"
+    },
+    {
+      "filename": "C12.svg",
+      "signCode": "C12",
+      "category": "prohibitory",
+      "description": "C12: No U-turns",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Denmark_road_sign_C12.svg",
+      "downloadedAt": "2025-11-05T15:42:40.327Z"
+    },
+    {
+      "filename": "C19.svg",
+      "signCode": "C19",
+      "category": "prohibitory",
+      "description": "C19: No entry",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Denmark_road_sign_C19.svg",
+      "downloadedAt": "2025-11-05T15:42:42.258Z"
+    },
+    {
+      "filename": "C21.svg",
+      "signCode": "C21",
+      "category": "prohibitory",
+      "description": "C21: Driving in both directions prohibited",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Denmark_road_sign_C21.svg",
+      "downloadedAt": "2025-11-05T15:42:42.938Z"
+    },
+    {
+      "filename": "C22.1.svg",
+      "signCode": "C22.1",
+      "category": "prohibitory",
+      "description": "C22.1: No motor vehicles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Denmark_road_sign_C22.1.svg",
+      "downloadedAt": "2025-11-05T15:42:45.017Z"
+    },
+    {
+      "filename": "C22.2.svg",
+      "signCode": "C22.2",
+      "category": "prohibitory",
+      "description": "C22.2: No motorcycles or large mopeds",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Denmark_road_sign_C22.2.svg",
+      "downloadedAt": "2025-11-05T15:42:45.781Z"
+    },
+    {
+      "filename": "C23.1.svg",
+      "signCode": "C23.1",
+      "category": "prohibitory",
+      "description": "C23.1: No heavy goods vehicles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Denmark_road_sign_C23.1.svg",
+      "downloadedAt": "2025-11-05T15:42:46.517Z"
+    },
+    {
+      "filename": "C23.2.svg",
+      "signCode": "C23.2",
+      "category": "prohibitory",
+      "description": "C23.2: No buses",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Denmark_road_sign_C23.2.svg",
+      "downloadedAt": "2025-11-05T15:42:47.354Z"
+    },
+    {
+      "filename": "C23.3.svg",
+      "signCode": "C23.3",
+      "category": "prohibitory",
+      "description": "C23.3: No vehicles carrying dangerous goods",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Denmark_road_sign_C23.3.svg",
+      "downloadedAt": "2025-11-05T15:42:48.077Z"
+    },
+    {
+      "filename": "C24.1.svg",
+      "signCode": "C24.1",
+      "category": "prohibitory",
+      "description": "C24.1: No tractors or motorized equipment",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Denmark_road_sign_C24.1.svg",
+      "downloadedAt": "2025-11-05T15:42:48.929Z"
+    },
+    {
+      "filename": "C24.2.svg",
+      "signCode": "C24.2",
+      "category": "prohibitory",
+      "description": "C24.2: No horse-drawn vehicles or similar",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Denmark_road_sign_C24.2.svg",
+      "downloadedAt": "2025-11-05T15:42:49.658Z"
+    },
+    {
+      "filename": "C25.1.svg",
+      "signCode": "C25.1",
+      "category": "prohibitory",
+      "description": "C25.1: No bicycles or small mopeds[fn 7]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Denmark_road_sign_C25.1.svg",
+      "downloadedAt": "2025-11-05T15:42:50.505Z"
+    },
+    {
+      "filename": "C25.2.svg",
+      "signCode": "C25.2",
+      "category": "prohibitory",
+      "description": "C25.2: No small mopeds",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Denmark_road_sign_C25.2.svg",
+      "downloadedAt": "2025-11-05T15:42:51.220Z"
+    },
+    {
+      "filename": "C26.1.svg",
+      "signCode": "C26.1",
+      "category": "prohibitory",
+      "description": "C26.1: No riding or leading a horse",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Denmark_road_sign_C26.1.svg",
+      "downloadedAt": "2025-11-05T15:42:51.959Z"
+    },
+    {
+      "filename": "C26.2.svg",
+      "signCode": "C26.2",
+      "category": "prohibitory",
+      "description": "C26.2: No pedestrians",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Denmark_road_sign_C26.2.svg",
+      "downloadedAt": "2025-11-05T15:42:52.737Z"
+    },
+    {
+      "filename": "C31.svg",
+      "signCode": "C31",
+      "category": "prohibitory",
+      "description": "C31: Max weight",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Denmark_road_sign_C31.svg",
+      "downloadedAt": "2025-11-05T15:42:53.457Z"
+    },
+    {
+      "filename": "C32.svg",
+      "signCode": "C32",
+      "category": "prohibitory",
+      "description": "C32: Max weight of roadtrain",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Denmark_road_sign_C32.svg",
+      "downloadedAt": "2025-11-05T15:42:54.180Z"
+    },
+    {
+      "filename": "C35.svg",
+      "signCode": "C35",
+      "category": "prohibitory",
+      "description": "C35: Max axle load",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Denmark_road_sign_C35.svg",
+      "downloadedAt": "2025-11-05T15:42:54.960Z"
+    },
+    {
+      "filename": "C36.svg",
+      "signCode": "C36",
+      "category": "prohibitory",
+      "description": "C36: Max bogie load",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Denmark_road_sign_C36.svg",
+      "downloadedAt": "2025-11-05T15:42:55.818Z"
+    },
+    {
+      "filename": "C41.svg",
+      "signCode": "C41",
+      "category": "prohibitory",
+      "description": "C41: Max width of vehicle with load",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Denmark_road_sign_C41.svg",
+      "downloadedAt": "2025-11-05T15:42:56.602Z"
+    },
+    {
+      "filename": "C42.svg",
+      "signCode": "C42",
+      "category": "prohibitory",
+      "description": "C42: Max height of vehicle with load",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Denmark_road_sign_C42.svg",
+      "downloadedAt": "2025-11-05T15:42:57.481Z"
+    },
+    {
+      "filename": "C43.svg",
+      "signCode": "C43",
+      "category": "prohibitory",
+      "description": "C43: Max length of vehicle",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Denmark_road_sign_C43.svg",
+      "downloadedAt": "2025-11-05T15:42:58.219Z"
+    },
+    {
+      "filename": "C51.svg",
+      "signCode": "C51",
+      "category": "prohibitory",
+      "description": "C51: No overtaking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Denmark_road_sign_C51.svg",
+      "downloadedAt": "2025-11-05T15:42:59.051Z"
+    },
+    {
+      "filename": "C52.svg",
+      "signCode": "C52",
+      "category": "prohibitory",
+      "description": "C52: No overtaking by heavy goods vehicle",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Denmark_road_sign_C52.svg",
+      "downloadedAt": "2025-11-05T15:42:59.941Z"
+    },
+    {
+      "filename": "C53.svg",
+      "signCode": "C53",
+      "category": "prohibitory",
+      "description": "C53: End of no overtaking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Denmark_road_sign_C53.svg",
+      "downloadedAt": "2025-11-05T15:43:00.739Z"
+    },
+    {
+      "filename": "C54.svg",
+      "signCode": "C54",
+      "category": "prohibitory",
+      "description": "C54: End of no overtaking by heavy goods vehicle",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Denmark_road_sign_C54.svg",
+      "downloadedAt": "2025-11-05T15:43:01.658Z"
+    },
+    {
+      "filename": "C55.svg",
+      "signCode": "C55",
+      "category": "prohibitory",
+      "description": "C55: Local speed limit [fn 8]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Denmark_road_sign_C55.svg",
+      "downloadedAt": "2025-11-05T15:43:02.458Z"
+    },
+    {
+      "filename": "C56.svg",
+      "signCode": "C56",
+      "category": "prohibitory",
+      "description": "C56: End of local speed limit",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Denmark_road_sign_C56.svg",
+      "downloadedAt": "2025-11-05T15:43:03.083Z"
+    },
+    {
+      "filename": "UC56.svg",
+      "signCode": "UC56",
+      "category": "subpanels",
+      "description": "UC56: Built up area subpanel",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Denmark_road_sign_UC56.svg",
+      "downloadedAt": "2025-11-05T15:43:03.777Z"
+    },
+    {
+      "filename": "UC57.svg",
+      "signCode": "UC57",
+      "category": "subpanels",
+      "description": "UC57: End of local speed limit subpanel",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Denmark_road_sign_UC57.svg",
+      "downloadedAt": "2025-11-05T15:43:04.517Z"
+    },
+    {
+      "filename": "C59.svg",
+      "signCode": "C59",
+      "category": "prohibitory",
+      "description": "C59: End of prohibition",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Denmark_road_sign_C59.svg",
+      "downloadedAt": "2025-11-05T15:43:05.317Z"
+    },
+    {
+      "filename": "C63.svg",
+      "signCode": "C63",
+      "category": "prohibitory",
+      "description": "C63: No parking for bicycles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Denmark_road_sign_C63.svg",
+      "downloadedAt": "2025-11-05T15:43:06.019Z"
+    },
+    {
+      "filename": "C92.svg",
+      "signCode": "C92",
+      "category": "prohibitory",
+      "description": "C92: Continuing without stop prohibited",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Denmark_road_sign_C92.svg",
+      "downloadedAt": "2025-11-05T15:43:06.877Z"
+    },
+    {
+      "filename": "C61.svg",
+      "signCode": "C61",
+      "category": "prohibitory",
+      "description": "C61: No stopping",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Denmark_road_sign_C61.svg",
+      "downloadedAt": "2025-11-05T15:43:07.456Z"
+    },
+    {
+      "filename": "C62.svg",
+      "signCode": "C62",
+      "category": "prohibitory",
+      "description": "C62: No parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Denmark_road_sign_C62.svg",
+      "downloadedAt": "2025-11-05T15:43:08.198Z"
+    },
+    {
+      "filename": "UC33.svg",
+      "signCode": "UC33",
+      "category": "subpanels",
+      "description": "UC33: Limited parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Denmark_road_sign_UC33.svg",
+      "downloadedAt": "2025-11-05T15:43:08.897Z"
+    },
+    {
+      "filename": "UC61.svg",
+      "signCode": "UC61",
+      "category": "subpanels",
+      "description": "UC61: No stopping subpanel",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Denmark_road_sign_UC61.svg",
+      "downloadedAt": "2025-11-05T15:43:09.678Z"
+    },
+    {
+      "filename": "UC62.svg",
+      "signCode": "UC62",
+      "category": "subpanels",
+      "description": "UC62: No parking subpanel",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Denmark_road_sign_UC62.svg",
+      "downloadedAt": "2025-11-05T15:43:10.377Z"
+    },
+    {
+      "filename": "UC60.1.svg",
+      "signCode": "UC60.1",
+      "category": "subpanels",
+      "description": "UC60.1: Restriction applies before and after sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Denmark_road_sign_UC60.1.svg",
+      "downloadedAt": "2025-11-05T15:43:11.153Z"
+    },
+    {
+      "filename": "UC60.2.svg",
+      "signCode": "UC60.2",
+      "category": "subpanels",
+      "description": "UC60.2: Restriction begins at sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Denmark_road_sign_UC60.2.svg",
+      "downloadedAt": "2025-11-05T15:43:11.902Z"
+    },
+    {
+      "filename": "UC60.3.svg",
+      "signCode": "UC60.3",
+      "category": "subpanels",
+      "description": "UC60.3: Restriction ends at sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Denmark_road_sign_UC60.3.svg",
+      "downloadedAt": "2025-11-05T15:43:12.682Z"
+    },
+    {
+      "filename": "UC60.5.svg",
+      "signCode": "UC60.5",
+      "category": "subpanels",
+      "description": "UC60.5: No stopping on shoulder",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Denmark_road_sign_UC60_5.svg",
+      "downloadedAt": "2025-11-05T15:43:13.402Z"
+    },
+    {
+      "filename": "UC60.6.svg",
+      "signCode": "UC60.6",
+      "category": "subpanels",
+      "description": "UC60.6: No parking on shoulder",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Denmark_road_sign_UC60_6.svg",
+      "downloadedAt": "2025-11-05T15:43:14.119Z"
+    },
+    {
+      "filename": "UC60.7.svg",
+      "signCode": "UC60.7",
+      "category": "subpanels",
+      "description": "UC60.7: Parking on shoulder allowed",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Denmark_road_sign_UC60_7.svg",
+      "downloadedAt": "2025-11-05T15:43:14.857Z"
+    },
+    {
+      "filename": "UC60.8.svg",
+      "signCode": "UC60.8",
+      "category": "subpanels",
+      "description": "UC60.8: Parking partly on sidewalk allowed",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Denmark_road_sign_UC60_8.svg",
+      "downloadedAt": "2025-11-05T15:43:25.478Z"
+    },
+    {
+      "filename": "D11.1.svg",
+      "signCode": "D11.1",
+      "category": "mandatory",
+      "description": "D11.1: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Denmark_road_sign_D11.1.svg",
+      "downloadedAt": "2025-11-05T15:43:26.258Z"
+    },
+    {
+      "filename": "D11.2.svg",
+      "signCode": "D11.2",
+      "category": "mandatory",
+      "description": "D11.2: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Denmark_road_sign_D11.2.svg",
+      "downloadedAt": "2025-11-05T15:43:27.097Z"
+    },
+    {
+      "filename": "D11.3.svg",
+      "signCode": "D11.3",
+      "category": "mandatory",
+      "description": "D11.3: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Denmark_road_sign_D11.3.svg",
+      "downloadedAt": "2025-11-05T15:43:27.777Z"
+    },
+    {
+      "filename": "D11.4.svg",
+      "signCode": "D11.4",
+      "category": "mandatory",
+      "description": "D11.4: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Denmark_road_sign_D11.4.svg",
+      "downloadedAt": "2025-11-05T15:43:28.457Z"
+    },
+    {
+      "filename": "D11.5.svg",
+      "signCode": "D11.5",
+      "category": "mandatory",
+      "description": "D11.5: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Denmark_road_sign_D11.5.svg",
+      "downloadedAt": "2025-11-05T15:43:29.187Z"
+    },
+    {
+      "filename": "D11.6.svg",
+      "signCode": "D11.6",
+      "category": "mandatory",
+      "description": "D11.6: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Denmark_road_sign_D11.6.svg",
+      "downloadedAt": "2025-11-05T15:43:29.927Z"
+    },
+    {
+      "filename": "D11.7.svg",
+      "signCode": "D11.7",
+      "category": "mandatory",
+      "description": "D11.7: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Denmark_road_sign_D11.7.svg",
+      "downloadedAt": "2025-11-05T15:43:30.704Z"
+    },
+    {
+      "filename": "D11.8.svg",
+      "signCode": "D11.8",
+      "category": "mandatory",
+      "description": "D11.8: Mandatory direction",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Denmark_road_sign_D11.8.svg",
+      "downloadedAt": "2025-11-05T15:43:31.466Z"
+    },
+    {
+      "filename": "D12.svg",
+      "signCode": "D12",
+      "category": "mandatory",
+      "description": "D12: Mandatory direction in the roundabout",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Denmark_road_sign_D12.svg",
+      "downloadedAt": "2025-11-05T15:43:32.287Z"
+    },
+    {
+      "filename": "D15.2.svg",
+      "signCode": "D15.2",
+      "category": "mandatory",
+      "description": "D15.2: Mandatory passage",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Denmark_road_sign_D15.2.svg",
+      "downloadedAt": "2025-11-05T15:43:32.985Z"
+    },
+    {
+      "filename": "D15.3.svg",
+      "signCode": "D15.3",
+      "category": "mandatory",
+      "description": "D15.3: Mandatory passage",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Denmark_road_sign_D15.3.svg",
+      "downloadedAt": "2025-11-05T15:43:33.848Z"
+    },
+    {
+      "filename": "D16.svg",
+      "signCode": "D16",
+      "category": "mandatory",
+      "description": "D16: Passage",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Denmark_road_sign_D16.svg",
+      "downloadedAt": "2025-11-05T15:43:34.555Z"
+    },
+    {
+      "filename": "D21.svg",
+      "signCode": "D21",
+      "category": "mandatory",
+      "description": "D21: Cycleway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Denmark_road_sign_D21.svg",
+      "downloadedAt": "2025-11-05T15:43:35.420Z"
+    },
+    {
+      "filename": "UD1.svg",
+      "signCode": "UD1",
+      "category": "subpanels",
+      "description": "UD1: Subpanel which points to lane or path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Denmark_road_sign_UD1.svg",
+      "downloadedAt": "2025-11-05T15:43:36.154Z"
+    },
+    {
+      "filename": "UD21.1.svg",
+      "signCode": "UD21.1",
+      "category": "subpanels",
+      "description": "UD21.1: Two-way cycle traffic",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Denmark_road_sign_UD21_1.svg",
+      "downloadedAt": "2025-11-05T15:43:36.855Z"
+    },
+    {
+      "filename": "UD21.2.svg",
+      "signCode": "UD21.2",
+      "category": "subpanels",
+      "description": "UD21.2: End of Two-way cycle traffic",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Denmark_road_sign_UD21_2.svg",
+      "downloadedAt": "2025-11-05T15:43:37.542Z"
+    },
+    {
+      "filename": "D22.svg",
+      "signCode": "D22",
+      "category": "mandatory",
+      "description": "D22: Footway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Denmark_road_sign_D22.svg",
+      "downloadedAt": "2025-11-05T15:43:38.115Z"
+    },
+    {
+      "filename": "D23.svg",
+      "signCode": "D23",
+      "category": "mandatory",
+      "description": "D23: Bridleway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Denmark_road_sign_D23.svg",
+      "downloadedAt": "2025-11-05T15:43:38.864Z"
+    },
+    {
+      "filename": "D26.svg",
+      "signCode": "D26",
+      "category": "mandatory",
+      "description": "D26: Segregated path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Denmark_road_sign_D26.svg",
+      "downloadedAt": "2025-11-05T15:43:39.627Z"
+    },
+    {
+      "filename": "D26.1.svg",
+      "signCode": "D26.1",
+      "category": "mandatory",
+      "description": "D26.1: Segregated path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Denmark_road_sign_D26.1.svg",
+      "downloadedAt": "2025-11-05T15:43:40.388Z"
+    },
+    {
+      "filename": "D26.2.svg",
+      "signCode": "D26.2",
+      "category": "mandatory",
+      "description": "D26.2: Segregated path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Denmark_road_sign_D26.2.svg",
+      "downloadedAt": "2025-11-05T15:43:41.204Z"
+    },
+    {
+      "filename": "D26.3.svg",
+      "signCode": "D26.3",
+      "category": "mandatory",
+      "description": "D26.3: Segregated path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Denmark_road_sign_D26.3.svg",
+      "downloadedAt": "2025-11-05T15:43:42.001Z"
+    },
+    {
+      "filename": "D26.4.svg",
+      "signCode": "D26.4",
+      "category": "mandatory",
+      "description": "D26.4: Segregated path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Denmark_road_sign_D26.4.svg",
+      "downloadedAt": "2025-11-05T15:43:42.875Z"
+    },
+    {
+      "filename": "D26.5.svg",
+      "signCode": "D26.5",
+      "category": "mandatory",
+      "description": "D26.5: Segregated path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Denmark_road_sign_D26.5.svg",
+      "downloadedAt": "2025-11-05T15:43:43.815Z"
+    },
+    {
+      "filename": "D27.svg",
+      "signCode": "D27",
+      "category": "mandatory",
+      "description": "D27: Combined path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Denmark_road_sign_D27.svg",
+      "downloadedAt": "2025-11-05T15:43:44.658Z"
+    },
+    {
+      "filename": "D27.1.svg",
+      "signCode": "D27.1",
+      "category": "mandatory",
+      "description": "D27.1: Combined path",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Denmark_road_sign_D27.1.svg",
+      "downloadedAt": "2025-11-05T15:43:45.384Z"
+    },
+    {
+      "filename": "D55.svg",
+      "signCode": "D55",
+      "category": "mandatory",
+      "description": "D55: Minimum speed",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Denmark_road_sign_D55.svg",
+      "downloadedAt": "2025-11-05T15:43:46.102Z"
+    },
+    {
+      "filename": "D56.svg",
+      "signCode": "D56",
+      "category": "mandatory",
+      "description": "D56: End of minimum speed",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Denmark_road_sign_D56.svg",
+      "downloadedAt": "2025-11-05T15:43:46.797Z"
+    },
+    {
+      "filename": "E11.1.svg",
+      "signCode": "E11.1",
+      "category": "special-regulation",
+      "description": "E11.1: Continue straight",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Denmark_road_sign_E11_1.svg",
+      "downloadedAt": "2025-11-05T15:43:47.519Z"
+    },
+    {
+      "filename": "E11.4.svg",
+      "signCode": "E11.4",
+      "category": "special-regulation",
+      "description": "E11.4: Turn left",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Denmark_road_sign_E11_4.svg",
+      "downloadedAt": "2025-11-05T15:43:48.319Z"
+    },
+    {
+      "filename": "E11.5.svg",
+      "signCode": "E11.5",
+      "category": "special-regulation",
+      "description": "E11.5: Turn right",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Denmark_road_sign_E11_5.svg",
+      "downloadedAt": "2025-11-05T15:43:49.056Z"
+    },
+    {
+      "filename": "E11.6.svg",
+      "signCode": "E11.6",
+      "category": "special-regulation",
+      "description": "E11.6: Continue straight or turn left",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Denmark_road_sign_E11_6.svg",
+      "downloadedAt": "2025-11-05T15:43:49.848Z"
+    },
+    {
+      "filename": "E11.7.svg",
+      "signCode": "E11.7",
+      "category": "special-regulation",
+      "description": "E11.7: Continue straight or turn right",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Denmark_road_sign_E11_7.svg",
+      "downloadedAt": "2025-11-05T15:43:50.623Z"
+    },
+    {
+      "filename": "E11.8.svg",
+      "signCode": "E11.8",
+      "category": "special-regulation",
+      "description": "E11.8: Turn left or right",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Denmark_road_sign_E11_8.svg",
+      "downloadedAt": "2025-11-05T15:43:51.367Z"
+    },
+    {
+      "filename": "E11.9.svg",
+      "signCode": "E11.9",
+      "category": "special-regulation",
+      "description": "E11.9: Continue straight, turn left or right",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Denmark_road_sign_E11_9.svg",
+      "downloadedAt": "2025-11-05T15:43:52.065Z"
+    },
+    {
+      "filename": "E42.svg",
+      "signCode": "E42",
+      "category": "special-regulation",
+      "description": "E42: Motorway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Denmark_road_sign_E42.svg",
+      "downloadedAt": "2025-11-05T15:43:52.788Z"
+    },
+    {
+      "filename": "E43.svg",
+      "signCode": "E43",
+      "category": "special-regulation",
+      "description": "E43: Expressway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Denmark_road_sign_E43.svg",
+      "downloadedAt": "2025-11-05T15:43:53.503Z"
+    },
+    {
+      "filename": "E44.svg",
+      "signCode": "E44",
+      "category": "special-regulation",
+      "description": "E44: End of Motorway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Denmark_road_sign_E44.svg",
+      "downloadedAt": "2025-11-05T15:43:54.300Z"
+    },
+    {
+      "filename": "E45.svg",
+      "signCode": "E45",
+      "category": "special-regulation",
+      "description": "E45: End of Expressway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Denmark_road_sign_E45.svg",
+      "downloadedAt": "2025-11-05T15:43:55.046Z"
+    },
+    {
+      "filename": "E47.svg",
+      "signCode": "E47",
+      "category": "special-regulation",
+      "description": "E47: Bicycle boulevard",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Denmark_road_sign_E47.svg",
+      "downloadedAt": "2025-11-05T15:43:55.739Z"
+    },
+    {
+      "filename": "E48.svg",
+      "signCode": "E48",
+      "category": "special-regulation",
+      "description": "E48: End of Bicycle boulevard",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Denmark_road_sign_E48.svg",
+      "downloadedAt": "2025-11-05T15:43:56.407Z"
+    },
+    {
+      "filename": "E49.svg",
+      "signCode": "E49",
+      "category": "special-regulation",
+      "description": "E49: Pedestrian zone",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Denmark_road_sign_E49.svg",
+      "downloadedAt": "2025-11-05T15:43:57.009Z"
+    },
+    {
+      "filename": "E50.svg",
+      "signCode": "E50",
+      "category": "special-regulation",
+      "description": "E50: End of Pedestrian zone",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Denmark_road_sign_E50.svg",
+      "downloadedAt": "2025-11-05T15:43:57.765Z"
+    },
+    {
+      "filename": "E51.svg",
+      "signCode": "E51",
+      "category": "special-regulation",
+      "description": "E51: Living street",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Denmark_road_sign_E51.svg",
+      "downloadedAt": "2025-11-05T15:43:58.488Z"
+    },
+    {
+      "filename": "E52.svg",
+      "signCode": "E52",
+      "category": "special-regulation",
+      "description": "E52: End of living street",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Denmark_road_sign_E52.svg",
+      "downloadedAt": "2025-11-05T15:43:59.218Z"
+    },
+    {
+      "filename": "E53.svg",
+      "signCode": "E53",
+      "category": "special-regulation",
+      "description": "E53: Zone with traffic calming",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Denmark_road_sign_E53.svg",
+      "downloadedAt": "2025-11-05T15:43:59.921Z"
+    },
+    {
+      "filename": "E55.svg",
+      "signCode": "E55",
+      "category": "special-regulation",
+      "description": "E55: Urban area",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Denmark_road_sign_E55.svg",
+      "downloadedAt": "2025-11-05T15:44:00.637Z"
+    },
+    {
+      "filename": "E56.svg",
+      "signCode": "E56",
+      "category": "special-regulation",
+      "description": "E56: End of urban area",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Denmark_road_sign_E56.svg",
+      "downloadedAt": "2025-11-05T15:44:01.348Z"
+    },
+    {
+      "filename": "E68.svg",
+      "signCode": "E68",
+      "category": "special-regulation",
+      "description": "E68: Zone with no parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Denmark_road_sign_E68.svg",
+      "downloadedAt": "2025-11-05T15:44:02.160Z"
+    },
+    {
+      "filename": "E68.2.svg",
+      "signCode": "E68.2",
+      "category": "special-regulation",
+      "description": "E68.2: Zone with no stopping",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Denmark_road_sign_E68.2.svg",
+      "downloadedAt": "2025-11-05T15:44:03.037Z"
+    },
+    {
+      "filename": "E68.3.svg",
+      "signCode": "E68.3",
+      "category": "special-regulation",
+      "description": "E68.3: Zone with parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Denmark_road_sign_E68_3.svg",
+      "downloadedAt": "2025-11-05T15:44:03.737Z"
+    },
+    {
+      "filename": "E68.4.svg",
+      "signCode": "E68.4",
+      "category": "special-regulation",
+      "description": "E68.4: Zone with local speed limit",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Denmark_road_sign_E68.4.svg",
+      "downloadedAt": "2025-11-05T15:44:04.447Z"
+    },
+    {
+      "filename": "E68.5.svg",
+      "signCode": "E68.5",
+      "category": "special-regulation",
+      "description": "E68.5: No heavy goods vehicles permitted zone",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Denmark_road_sign_E68.5.svg",
+      "downloadedAt": "2025-11-05T15:44:05.310Z"
+    },
+    {
+      "filename": "E68.9.svg",
+      "signCode": "E68.9",
+      "category": "special-regulation",
+      "description": "E68.9: Low-emission zone",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/E68_9.svg",
+      "downloadedAt": "2025-11-05T15:44:06.057Z"
+    },
+    {
+      "filename": "E69.svg",
+      "signCode": "E69",
+      "category": "special-regulation",
+      "description": "E69: End of zone with no parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Denmark_road_sign_E69.svg",
+      "downloadedAt": "2025-11-05T15:44:06.879Z"
+    },
+    {
+      "filename": "E69.3.svg",
+      "signCode": "E69.3",
+      "category": "special-regulation",
+      "description": "E69.3: End of zone with parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Denmark_road_sign_E69.3.svg",
+      "downloadedAt": "2025-11-05T15:44:07.678Z"
+    },
+    {
+      "filename": "E69.4.svg",
+      "signCode": "E69.4",
+      "category": "special-regulation",
+      "description": "E69.4: End of zone with local speed limit",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Denmark_road_sign_E69.4.svg",
+      "downloadedAt": "2025-11-05T15:44:08.457Z"
+    },
+    {
+      "filename": "E69.5.svg",
+      "signCode": "E69.5",
+      "category": "special-regulation",
+      "description": "E69.5: End of zone with no heavy goods vehicles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Denmark_road_sign_E69.5.svg",
+      "downloadedAt": "2025-11-05T15:44:09.168Z"
+    },
+    {
+      "filename": "E69.9.svg",
+      "signCode": "E69.9",
+      "category": "special-regulation",
+      "description": "E69.9: End of low-emission zone",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/E69_9.svg",
+      "downloadedAt": "2025-11-05T15:44:09.868Z"
+    },
+    {
+      "filename": "E70.svg",
+      "signCode": "E70",
+      "category": "special-regulation",
+      "description": "E70: Parking zone information",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Denmark_road_sign_E70.svg",
+      "downloadedAt": "2025-11-05T15:44:10.547Z"
+    },
+    {
+      "filename": "UE80.svg",
+      "signCode": "UE80",
+      "category": "subpanels",
+      "description": "E80+UE80: General speed limits[fn 9]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Denmark_road_sign_E80.svg",
+      "downloadedAt": "2025-11-05T15:44:11.388Z"
+    },
+    {
+      "filename": "E15.svg",
+      "signCode": "E15",
+      "category": "special-regulation",
+      "description": "E15: Lanes at intersection",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Denmark_road_sign_E15.svg",
+      "downloadedAt": "2025-11-05T15:44:12.122Z"
+    },
+    {
+      "filename": "E16.1.svg",
+      "signCode": "E16.1",
+      "category": "special-regulation",
+      "description": "E16.1: Reduction of number of lanes with lane-merge",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Denmark_road_sign_E16_1.svg",
+      "downloadedAt": "2025-11-05T15:44:12.881Z"
+    },
+    {
+      "filename": "E16.2.svg",
+      "signCode": "E16.2",
+      "category": "special-regulation",
+      "description": "E16.2: Reduction of number of lanes with lane-change",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Denmark_road_sign_E16_2.svg",
+      "downloadedAt": "2025-11-05T15:44:13.697Z"
+    },
+    {
+      "filename": "E17.svg",
+      "signCode": "E17",
+      "category": "special-regulation",
+      "description": "E17: Pedestrian crossing. (Variant: )",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Denmark_road_sign_E17.svg",
+      "downloadedAt": "2025-11-05T15:44:14.556Z"
+    },
+    {
+      "filename": "E18.svg",
+      "signCode": "E18",
+      "category": "special-regulation",
+      "description": "E18: Dead end.[fn 10]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Denmark_road_sign_E18.svg",
+      "downloadedAt": "2025-11-05T15:44:15.287Z"
+    },
+    {
+      "filename": "E19.svg",
+      "signCode": "E19",
+      "category": "special-regulation",
+      "description": "E19: One way",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Denmark_road_sign_E19-L.svg",
+      "downloadedAt": "2025-11-05T15:44:16.049Z"
+    },
+    {
+      "filename": "E21.1.svg",
+      "signCode": "E21.1",
+      "category": "special-regulation",
+      "description": "E21.1: Recommended route for cyclists",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Denmark_road_sign_E21.1.svg",
+      "downloadedAt": "2025-11-05T15:44:16.708Z"
+    },
+    {
+      "filename": "E21.2.svg",
+      "signCode": "E21.2",
+      "category": "special-regulation",
+      "description": "E21.2: Recommended route for pedestrians",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Denmark_road_sign_E21.2.svg",
+      "downloadedAt": "2025-11-05T15:44:17.629Z"
+    },
+    {
+      "filename": "E21.3.svg",
+      "signCode": "E21.3",
+      "category": "special-regulation",
+      "description": "E21.3: Recommended route for equestrians",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Denmark_road_sign_E21.3.svg",
+      "downloadedAt": "2025-11-05T15:44:18.313Z"
+    },
+    {
+      "filename": "E21.4.svg",
+      "signCode": "E21.4",
+      "category": "special-regulation",
+      "description": "E21.4: Recommended route for mopeds",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Denmark_road_sign_E21.4.svg",
+      "downloadedAt": "2025-11-05T15:44:19.238Z"
+    },
+    {
+      "filename": "E22.1.svg",
+      "signCode": "E22.1",
+      "category": "special-regulation",
+      "description": "E22.1: Recommended route for heavy goods vehicles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Denmark_road_sign_E22.1.svg",
+      "downloadedAt": "2025-11-05T15:44:19.984Z"
+    },
+    {
+      "filename": "E22.2.svg",
+      "signCode": "E22.2",
+      "category": "special-regulation",
+      "description": "E22.2: Recommended route for hazardous goods vehicles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Denmark_road_sign_E22_2.svg",
+      "downloadedAt": "2025-11-05T15:44:20.727Z"
+    },
+    {
+      "filename": "E22.3.svg",
+      "signCode": "E22.3",
+      "category": "special-regulation",
+      "description": "E22.3: Recommended route for tractors and motorized equipment",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Denmark_road_sign_E22_3.svg",
+      "downloadedAt": "2025-11-05T15:44:21.555Z"
+    },
+    {
+      "filename": "E22.4.svg",
+      "signCode": "E22.4",
+      "category": "special-regulation",
+      "description": "E22.4: Recommended route for busses",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Denmark_road_sign_E22_4.svg",
+      "downloadedAt": "2025-11-05T15:44:22.362Z"
+    },
+    {
+      "filename": "E23.svg",
+      "signCode": "E23",
+      "category": "special-regulation",
+      "description": "E23: Instructions for disabled",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Denmark_road_sign_E23.svg",
+      "downloadedAt": "2025-11-05T15:44:23.388Z"
+    },
+    {
+      "filename": "E24.svg",
+      "signCode": "E24",
+      "category": "special-regulation",
+      "description": "E24: Instructions for visually impaired",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Denmark_road_sign_E24.svg",
+      "downloadedAt": "2025-11-05T15:44:24.068Z"
+    },
+    {
+      "filename": "E26.1.svg",
+      "signCode": "E26.1",
+      "category": "special-regulation",
+      "description": "E26.1: Pedestrian overpass",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Denmark_road_sign_E26.1.svg",
+      "downloadedAt": "2025-11-05T15:44:24.829Z"
+    },
+    {
+      "filename": "E26.2.svg",
+      "signCode": "E26.2",
+      "category": "special-regulation",
+      "description": "E26.2: Pedestrian underpass",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Denmark_road_sign_E26.2.svg",
+      "downloadedAt": "2025-11-05T15:44:25.539Z"
+    },
+    {
+      "filename": "E30.svg",
+      "signCode": "E30",
+      "category": "special-regulation",
+      "description": "E30: Light rail stop",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Denmark_road_sign_E30.svg",
+      "downloadedAt": "2025-11-05T15:44:26.280Z"
+    },
+    {
+      "filename": "E31.svg",
+      "signCode": "E31",
+      "category": "special-regulation",
+      "description": "E31: Bus stop",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Denmark_road_sign_E31.svg",
+      "downloadedAt": "2025-11-05T15:44:27.027Z"
+    },
+    {
+      "filename": "E33.1.svg",
+      "signCode": "E33.1",
+      "category": "special-regulation",
+      "description": "E33.1: Parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Denmark_road_sign_E33.1.svg",
+      "downloadedAt": "2025-11-05T15:44:27.853Z"
+    },
+    {
+      "filename": "E33.2.svg",
+      "signCode": "E33.2",
+      "category": "special-regulation",
+      "description": "E33.2: Indoor parking",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Denmark_road_sign_E33.2.svg",
+      "downloadedAt": "2025-11-05T15:44:28.738Z"
+    },
+    {
+      "filename": "UE33.1.svg",
+      "signCode": "UE33.1",
+      "category": "subpanels",
+      "description": "UE33.1: Before and after sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Denmark_road_sign_UE33_1.svg",
+      "downloadedAt": "2025-11-05T15:44:29.420Z"
+    },
+    {
+      "filename": "UE33.2.svg",
+      "signCode": "UE33.2",
+      "category": "subpanels",
+      "description": "UE33.2: After sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Denmark_road_sign_UE33_2.svg",
+      "downloadedAt": "2025-11-05T15:44:30.098Z"
+    },
+    {
+      "filename": "UE33.3.svg",
+      "signCode": "UE33.3",
+      "category": "subpanels",
+      "description": "UE33.3: Before sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Denmark_road_sign_UE33_3.svg",
+      "downloadedAt": "2025-11-05T15:44:30.819Z"
+    },
+    {
+      "filename": "UE33.4.svg",
+      "signCode": "UE33.4",
+      "category": "subpanels",
+      "description": "UE33.4: Charging",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Denmark_road_sign_UE33_4.svg",
+      "downloadedAt": "2025-11-05T15:44:31.519Z"
+    },
+    {
+      "filename": "E34.svg",
+      "signCode": "E34",
+      "category": "special-regulation",
+      "description": "E34: Breakdown bay (formerly used )",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Denmark_road_sign_E34_2023.svg",
+      "downloadedAt": "2025-11-05T15:44:32.292Z"
+    },
+    {
+      "filename": "UE34.svg",
+      "signCode": "UE34",
+      "category": "subpanels",
+      "description": "UE34: Fire extinguisher and emergency phone",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Denmark_road_sign_UE34.svg",
+      "downloadedAt": "2025-11-05T15:44:33.089Z"
+    },
+    {
+      "filename": "E35.svg",
+      "signCode": "E35",
+      "category": "special-regulation",
+      "description": "E35: Tunnel",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Denmark_road_sign_E35.svg",
+      "downloadedAt": "2025-11-05T15:44:33.818Z"
+    },
+    {
+      "filename": "E37.svg",
+      "signCode": "E37",
+      "category": "special-regulation",
+      "description": "E37: Crawler lane begins",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Denmark_road_sign_E37.svg",
+      "downloadedAt": "2025-11-05T15:44:34.477Z"
+    },
+    {
+      "filename": "E39.svg",
+      "signCode": "E39",
+      "category": "special-regulation",
+      "description": "E39: Advisory maxspeed",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Denmark_road_sign_E39.svg",
+      "downloadedAt": "2025-11-05T15:44:35.189Z"
+    },
+    {
+      "filename": "E40.svg",
+      "signCode": "E40",
+      "category": "special-regulation",
+      "description": "E40: End of advisory maxspeed",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Denmark_road_sign_E40.svg",
+      "downloadedAt": "2025-11-05T15:44:35.937Z"
+    },
+    {
+      "filename": "E41.svg",
+      "signCode": "E41",
+      "category": "special-regulation",
+      "description": "E41: Recommended max speed on slip road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Denmark_road_sign_E41.svg",
+      "downloadedAt": "2025-11-05T15:44:36.658Z"
+    },
+    {
+      "filename": "E90.svg",
+      "signCode": "E90",
+      "category": "special-regulation",
+      "description": "E90: Traffic enforcement camera",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Denmark_road_sign_E90.svg",
+      "downloadedAt": "2025-11-05T15:44:37.380Z"
+    },
+    {
+      "filename": "E91.svg",
+      "signCode": "E91",
+      "category": "special-regulation",
+      "description": "E91: Speed feedback sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Denmark_road_sign_E91.svg",
+      "downloadedAt": "2025-11-05T15:44:38.038Z"
+    },
+    {
+      "filename": "E92.svg",
+      "signCode": "E92",
+      "category": "special-regulation",
+      "description": "E92: Variable-message sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Denmark_road_sign_E92.svg",
+      "downloadedAt": "2025-11-05T15:44:38.738Z"
+    },
+    {
+      "filename": "E93.svg",
+      "signCode": "E93",
+      "category": "special-regulation",
+      "description": "E93: Video surveillance",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Denmark_road_sign_E93.svg",
+      "downloadedAt": "2025-11-05T15:44:39.418Z"
+    },
+    {
+      "filename": "F11.svg",
+      "signCode": "F11",
+      "category": "direction",
+      "description": "F11: Flag-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Denmark_road_sign_F11_destination_and_distance.svg",
+      "downloadedAt": "2025-11-05T15:44:40.079Z"
+    },
+    {
+      "filename": "F12.svg",
+      "signCode": "F12",
+      "category": "direction",
+      "description": "F12: Flag-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Denmark_road_sign_F12.svg",
+      "downloadedAt": "2025-11-05T15:44:41.037Z"
+    },
+    {
+      "filename": "F34.2.svg",
+      "signCode": "F34.2",
+      "category": "direction",
+      "description": "F34.2: Flag-type traffic diversion sign[fn 11]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Denmark_road_sign_F34_2.svg",
+      "downloadedAt": "2025-11-05T15:44:41.729Z"
+    },
+    {
+      "filename": "F13.svg",
+      "signCode": "F13",
+      "category": "direction",
+      "description": "F13: Flag-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Denmark_road_sign_F13.svg",
+      "downloadedAt": "2025-11-05T15:44:42.687Z"
+    },
+    {
+      "filename": "F14.svg",
+      "signCode": "F14",
+      "category": "direction",
+      "description": "F14: Temporary flag-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Denmark_road_sign_F14.svg",
+      "downloadedAt": "2025-11-05T15:44:43.576Z"
+    },
+    {
+      "filename": "F16.svg",
+      "signCode": "F16",
+      "category": "direction",
+      "description": "F16: Exit sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Denmark_road_sign_F16.svg",
+      "downloadedAt": "2025-11-05T15:44:44.318Z"
+    },
+    {
+      "filename": "F18.svg",
+      "signCode": "F18",
+      "category": "direction",
+      "description": "F18: Stack-type direction signs",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Denmark_road_sign_F18.svg",
+      "downloadedAt": "2025-11-05T15:44:45.152Z"
+    },
+    {
+      "filename": "F34.1.svg",
+      "signCode": "F34.1",
+      "category": "direction",
+      "description": "F34.1: Traffic diversion route[fn 11]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Denmark_road_sign_F34_1.svg",
+      "downloadedAt": "2025-11-05T15:44:45.838Z"
+    },
+    {
+      "filename": "F21.1.svg",
+      "signCode": "F21.1",
+      "category": "direction",
+      "description": "F21.1: Bicycle route",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Denmark_road_sign_EO_F21_1.svg",
+      "downloadedAt": "2025-11-05T15:44:46.538Z"
+    },
+    {
+      "filename": "F21.2.svg",
+      "signCode": "F21.2",
+      "category": "direction",
+      "description": "F21.2: Flag-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Denmark_road_sign_F21.2_bike.svg",
+      "downloadedAt": "2025-11-05T15:44:47.508Z"
+    },
+    {
+      "filename": "F21.3.svg",
+      "signCode": "F21.3",
+      "category": "direction",
+      "description": "F21.3: Stack-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Denmark_road_sign_F21.3.svg",
+      "downloadedAt": "2025-11-05T15:44:48.408Z"
+    },
+    {
+      "filename": "F21.4.svg",
+      "signCode": "F21.4",
+      "category": "direction",
+      "description": "F21.4: Map-type advance direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Denmark_road_sign_F21.4.svg",
+      "downloadedAt": "2025-11-05T15:44:49.368Z"
+    },
+    {
+      "filename": "F33.1.svg",
+      "signCode": "F33.1",
+      "category": "direction",
+      "description": "F33.1: Flag-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Denmark_road_sign_F33_1.svg",
+      "downloadedAt": "2025-11-05T15:44:50.078Z"
+    },
+    {
+      "filename": "F33.2.svg",
+      "signCode": "F33.2",
+      "category": "direction",
+      "description": "F33.2: Stack-type direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Denmark_road_sign_F33_2.svg",
+      "downloadedAt": "2025-11-05T15:44:50.737Z"
+    },
+    {
+      "filename": "G11.svg",
+      "signCode": "G11",
+      "category": "guide",
+      "description": "G11: Portal sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Denmark_road_sign_G11.svg",
+      "downloadedAt": "2025-11-05T15:44:51.489Z"
+    },
+    {
+      "filename": "G14.svg",
+      "signCode": "G14",
+      "category": "guide",
+      "description": "G14: Map-type advance direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Denmark_road_sign_G14.svg",
+      "downloadedAt": "2025-11-05T15:44:52.286Z"
+    },
+    {
+      "filename": "F34.3.svg",
+      "signCode": "F34.3",
+      "category": "direction",
+      "description": "F34.3: Map-type traffic diversion sign [fn 11]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Denmark_road_sign_F34_3.svg",
+      "downloadedAt": "2025-11-05T15:44:53.014Z"
+    },
+    {
+      "filename": "G15.svg",
+      "signCode": "G15",
+      "category": "guide",
+      "description": "G15: Lane diagram sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Denmark_road_sign_G15.svg",
+      "downloadedAt": "2025-11-05T15:44:53.887Z"
+    },
+    {
+      "filename": "G18.svg",
+      "signCode": "G18",
+      "category": "guide",
+      "description": "G18: Stack-type advance direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Denmark_road_sign_G18_2017_version.svg",
+      "downloadedAt": "2025-11-05T15:44:54.600Z"
+    },
+    {
+      "filename": "H41.svg",
+      "signCode": "H41",
+      "category": "distance-locality",
+      "description": "H41: Distance sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Denmark_road_sign_H41.svg",
+      "downloadedAt": "2025-11-05T15:44:55.498Z"
+    },
+    {
+      "filename": "H42.svg",
+      "signCode": "H42",
+      "category": "distance-locality",
+      "description": "H42: Split distance sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Denmark_road_sign_H42.svg",
+      "downloadedAt": "2025-11-05T15:44:56.182Z"
+    },
+    {
+      "filename": "H45.svg",
+      "signCode": "H45",
+      "category": "distance-locality",
+      "description": "H45: Locality",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Denmark_road_sign_H45.svg",
+      "downloadedAt": "2025-11-05T15:44:56.853Z"
+    },
+    {
+      "filename": "H46.svg",
+      "signCode": "H46",
+      "category": "distance-locality",
+      "description": "H46: Regional border",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Denmark_road_sign_H46_region_hovedstaden.svg",
+      "downloadedAt": "2025-11-05T15:44:57.508Z"
+    },
+    {
+      "filename": "H47.svg",
+      "signCode": "H47",
+      "category": "distance-locality",
+      "description": "H47: Municipal border",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Denmark_road_sign_H47.svg",
+      "downloadedAt": "2025-11-05T15:44:58.369Z"
+    },
+    {
+      "filename": "H49.svg",
+      "signCode": "H49",
+      "category": "distance-locality",
+      "description": "H49: National park",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Nationalparkthy.svg",
+      "downloadedAt": "2025-11-05T15:44:59.148Z"
+    },
+    {
+      "filename": "H49.1.svg",
+      "signCode": "H49.1",
+      "category": "distance-locality",
+      "description": "H49.1: Nature park",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Denmark_road_sign_H49_1.svg",
+      "downloadedAt": "2025-11-05T15:44:59.849Z"
+    },
+    {
+      "filename": "H50.svg",
+      "signCode": "H50",
+      "category": "distance-locality",
+      "description": "H50: Leaving national park",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nationalparkthy_leaving.svg",
+      "downloadedAt": "2025-11-05T15:45:00.535Z"
+    },
+    {
+      "filename": "H50.1.svg",
+      "signCode": "H50.1",
+      "category": "distance-locality",
+      "description": "H50.1: Leaving nature park",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Denmark_road_sign_H50_1.svg",
+      "downloadedAt": "2025-11-05T15:45:01.210Z"
+    },
+    {
+      "filename": "H51.svg",
+      "signCode": "H51",
+      "category": "distance-locality",
+      "description": "H51: National Border",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Denmark_road_sign_H51.svg",
+      "downloadedAt": "2025-11-05T15:45:01.925Z"
+    },
+    {
+      "filename": "I11.svg",
+      "signCode": "I11",
+      "category": "motorway",
+      "description": "I11: Exit from motorway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Denmark_road_sign_I11.svg",
+      "downloadedAt": "2025-11-05T15:45:02.648Z"
+    },
+    {
+      "filename": "I12.svg",
+      "signCode": "I12",
+      "category": "motorway",
+      "description": "I12: Exit from motorway in 500 m",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Denmark_road_sign_I12.svg",
+      "downloadedAt": "2025-11-05T15:45:03.397Z"
+    },
+    {
+      "filename": "I13.svg",
+      "signCode": "I13",
+      "category": "motorway",
+      "description": "I13: Exit from motorway in 1500m ‒ the lower sign displays the following exit (with its number) and destination to be reached",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Denmark_road_sign_I13.svg",
+      "downloadedAt": "2025-11-05T15:45:04.238Z"
+    },
+    {
+      "filename": "I16.svg",
+      "signCode": "I16",
+      "category": "motorway",
+      "description": "I16: Exit to another motorway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Denmark_road_sign_I16.svg",
+      "downloadedAt": "2025-11-05T15:45:04.965Z"
+    },
+    {
+      "filename": "I17.svg",
+      "signCode": "I17",
+      "category": "motorway",
+      "description": "I17: Exit to another motorway in 500m",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Denmark_road_sign_I17.svg",
+      "downloadedAt": "2025-11-05T15:45:05.688Z"
+    },
+    {
+      "filename": "I18.svg",
+      "signCode": "I18",
+      "category": "motorway",
+      "description": "I18: Exit to another motorway in 1500m",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Denmark_road_sign_I18.svg",
+      "downloadedAt": "2025-11-05T15:45:16.444Z"
+    },
+    {
+      "filename": "I20.svg",
+      "signCode": "I20",
+      "category": "motorway",
+      "description": "I20: Motorway junction (system interchange)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Denmark_road_sign_I20.svg",
+      "downloadedAt": "2025-11-05T15:45:17.178Z"
+    },
+    {
+      "filename": "J11.svg",
+      "signCode": "J11",
+      "category": "motorway",
+      "description": "J11: Assigned lane(s)[fn 12]",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Denmark_road_sign_J11_e_road.svg",
+      "downloadedAt": "2025-11-05T15:45:17.919Z"
+    },
+    {
+      "filename": "J12.svg",
+      "signCode": "J12",
+      "category": "motorway",
+      "description": "J12: Lane diagram",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Denmark_road_sign_J12.svg",
+      "downloadedAt": "2025-11-05T15:45:18.703Z"
+    },
+    {
+      "filename": "J13.svg",
+      "signCode": "J13",
+      "category": "motorway",
+      "description": "J13: Map-type advance direction sign",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Denmark_road_sign_J13.svg",
+      "downloadedAt": "2025-11-05T15:45:19.479Z"
+    },
+    {
+      "filename": "K11.svg",
+      "signCode": "K11",
+      "category": "motorway",
+      "description": "K11: Route confirmation",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Denmark_road_sign_K11.svg",
+      "downloadedAt": "2025-11-05T15:45:20.160Z"
+    },
+    {
+      "filename": "K12.svg",
+      "signCode": "K12",
+      "category": "motorway",
+      "description": "K12: Distance information",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Denmark_road_sign_K12.svg",
+      "downloadedAt": "2025-11-05T15:45:20.968Z"
+    },
+    {
+      "filename": "K30.svg",
+      "signCode": "K30",
+      "category": "motorway",
+      "description": "K30: Tourist information",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Denmark_road_sign_K30.svg",
+      "downloadedAt": "2025-11-05T15:45:21.668Z"
+    },
+    {
+      "filename": "L41.svg",
+      "signCode": "L41",
+      "category": "route",
+      "description": "L41: E-Road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Denmark_road_sign_L41.svg",
+      "downloadedAt": "2025-11-05T15:45:22.560Z"
+    },
+    {
+      "filename": "L42.svg",
+      "signCode": "L42",
+      "category": "route",
+      "description": "L42: Primary route",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Denmark_road_sign_L42.svg",
+      "downloadedAt": "2025-11-05T15:45:23.548Z"
+    },
+    {
+      "filename": "L43.svg",
+      "signCode": "L43",
+      "category": "route",
+      "description": "L43: Secondary route",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Denmark_road_sign_L43.svg",
+      "downloadedAt": "2025-11-05T15:45:24.206Z"
+    },
+    {
+      "filename": "L44.svg",
+      "signCode": "L44",
+      "category": "route",
+      "description": "L44: Ring road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Denmark_road_sign_L44.svg",
+      "downloadedAt": "2025-11-05T15:45:24.997Z"
+    },
+    {
+      "filename": "L45.svg",
+      "signCode": "L45",
+      "category": "route",
+      "description": "L45: National bicycle route",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Denmark_road_sign_L45.svg",
+      "downloadedAt": "2025-11-05T15:45:25.788Z"
+    },
+    {
+      "filename": "L45.2.svg",
+      "signCode": "L45.2",
+      "category": "route",
+      "description": "L45.2: Regional or local bicycle route",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Denmark_road_sign_L45.2.svg",
+      "downloadedAt": "2025-11-05T15:45:26.578Z"
+    },
+    {
+      "filename": "L46.svg",
+      "signCode": "L46",
+      "category": "route",
+      "description": "L46: Bicycle highway",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Denmark_road_sign_L46.svg",
+      "downloadedAt": "2025-11-05T15:45:27.378Z"
+    },
+    {
+      "filename": "L47.svg",
+      "signCode": "L47",
+      "category": "route",
+      "description": "L47: EuroVelo",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Denmark_road_sign_L47.svg",
+      "downloadedAt": "2025-11-05T15:45:28.139Z"
+    },
+    {
+      "filename": "L50.svg",
+      "signCode": "L50",
+      "category": "route",
+      "description": "L50: Marguerite route (tourist route)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Denmark_road_sign_L50.svg",
+      "downloadedAt": "2025-11-05T15:45:28.892Z"
+    },
+    {
+      "filename": "M9.svg",
+      "signCode": "M9",
+      "category": "service",
+      "description": "M9: Container and cargo port",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Denmark_road_sign_M9.svg",
+      "downloadedAt": "2025-11-05T15:45:29.589Z"
+    },
+    {
+      "filename": "M10.svg",
+      "signCode": "M10",
+      "category": "service",
+      "description": "M10: Ferry for pedestrians and bicycles",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Denmark_road_sign_M10.svg",
+      "downloadedAt": "2025-11-05T15:45:30.238Z"
+    },
+    {
+      "filename": "M11.svg",
+      "signCode": "M11",
+      "category": "service",
+      "description": "M11: Car ferry",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Denmark_road_sign_M11.svg",
+      "downloadedAt": "2025-11-05T15:45:30.948Z"
+    },
+    {
+      "filename": "M12.svg",
+      "signCode": "M12",
+      "category": "service",
+      "description": "M12: Airport",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Denmark_road_sign_M12.svg",
+      "downloadedAt": "2025-11-05T15:45:31.669Z"
+    },
+    {
+      "filename": "M13.svg",
+      "signCode": "M13",
+      "category": "service",
+      "description": "M13: Train station(formerly used )",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Denmark_road_sign_M13.svg",
+      "downloadedAt": "2025-11-05T15:45:32.368Z"
+    },
+    {
+      "filename": "M13.1.svg",
+      "signCode": "M13.1",
+      "category": "service",
+      "description": "M13.1: S-train station",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Denmark_road_sign_M13_1.svg",
+      "downloadedAt": "2025-11-05T15:45:33.148Z"
+    },
+    {
+      "filename": "M13.2.svg",
+      "signCode": "M13.2",
+      "category": "service",
+      "description": "M13.2 Metro station",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Denmark_road_sign_M13_2.svg",
+      "downloadedAt": "2025-11-05T15:45:33.904Z"
+    },
+    {
+      "filename": "M13.3.svg",
+      "signCode": "M13.3",
+      "category": "service",
+      "description": "M13.3: Light rail station",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Denmark_road_sign_M13.3.svg",
+      "downloadedAt": "2025-11-05T15:45:34.956Z"
+    },
+    {
+      "filename": "M14.svg",
+      "signCode": "M14",
+      "category": "service",
+      "description": "M14: Bus station",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Denmark_road_sign_M14.svg",
+      "downloadedAt": "2025-11-05T15:45:35.690Z"
+    },
+    {
+      "filename": "M15.svg",
+      "signCode": "M15",
+      "category": "service",
+      "description": "M15: Freight terminal",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Denmark_road_sign_M15.svg",
+      "downloadedAt": "2025-11-05T15:45:36.368Z"
+    },
+    {
+      "filename": "M16.svg",
+      "signCode": "M16",
+      "category": "service",
+      "description": "M16: Park and ride(formerly used )",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Denmark_road_sign_M16.svg",
+      "downloadedAt": "2025-11-05T15:45:37.108Z"
+    },
+    {
+      "filename": "M17.svg",
+      "signCode": "M17",
+      "category": "service",
+      "description": "M17: Post Office",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Denmark_road_sign_M17.svg",
+      "downloadedAt": "2025-11-05T15:45:37.828Z"
+    },
+    {
+      "filename": "M18.svg",
+      "signCode": "M18",
+      "category": "service",
+      "description": "M18: Hub (communal transport)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Denmark_road_sign_M18.svg",
+      "downloadedAt": "2025-11-05T15:45:38.623Z"
+    },
+    {
+      "filename": "M21.svg",
+      "signCode": "M21",
+      "category": "service",
+      "description": "M21: Hospital emergency department, open 24 hours a day",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Denmark_road_sign_M21.svg",
+      "downloadedAt": "2025-11-05T15:45:39.338Z"
+    },
+    {
+      "filename": "M22.svg",
+      "signCode": "M22",
+      "category": "service",
+      "description": "M22: Telephone",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Denmark_road_sign_M22.svg",
+      "downloadedAt": "2025-11-05T15:45:40.088Z"
+    },
+    {
+      "filename": "M23.svg",
+      "signCode": "M23",
+      "category": "service",
+      "description": "M23: Breakdown service",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Denmark_road_sign_M23.svg",
+      "downloadedAt": "2025-11-05T15:45:40.788Z"
+    },
+    {
+      "filename": "M24.svg",
+      "signCode": "M24",
+      "category": "service",
+      "description": "M24: Filling station",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Denmark_road_sign_M24.svg",
+      "downloadedAt": "2025-11-05T15:45:41.490Z"
+    },
+    {
+      "filename": "M24.1.svg",
+      "signCode": "M24.1",
+      "category": "service",
+      "description": "M24.1: Charging station for EV",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/M24_1.svg",
+      "downloadedAt": "2025-11-05T15:45:42.293Z"
+    },
+    {
+      "filename": "M24.2.svg",
+      "signCode": "M24.2",
+      "category": "service",
+      "description": "M24.2: Charging and filling station",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Denmark_road_sign_M24_2.svg",
+      "downloadedAt": "2025-11-05T15:45:43.028Z"
+    },
+    {
+      "filename": "M30.svg",
+      "signCode": "M30",
+      "category": "service",
+      "description": "M30: Primitive camp site for hikers",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Denmark_road_sign_M30.svg",
+      "downloadedAt": "2025-11-05T15:45:43.768Z"
+    },
+    {
+      "filename": "M31.svg",
+      "signCode": "M31",
+      "category": "service",
+      "description": "M31: Camping and caravan site",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Denmark_road_sign_M31.svg",
+      "downloadedAt": "2025-11-05T15:45:44.448Z"
+    },
+    {
+      "filename": "M31.1.svg",
+      "signCode": "M31.1",
+      "category": "service",
+      "description": "M31.1: Site exclusively for caravans",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Denmark_road_sign_M31_1.svg",
+      "downloadedAt": "2025-11-05T15:45:45.267Z"
+    },
+    {
+      "filename": "M32.svg",
+      "signCode": "M32",
+      "category": "service",
+      "description": "M32: Autocamper site",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Denmark_road_sign_M32.svg",
+      "downloadedAt": "2025-11-05T15:45:46.008Z"
+    },
+    {
+      "filename": "M33.svg",
+      "signCode": "M33",
+      "category": "service",
+      "description": "M33: Camping cabins",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Denmark_road_sign_M33.svg",
+      "downloadedAt": "2025-11-05T15:45:46.688Z"
+    },
+    {
+      "filename": "M34.svg",
+      "signCode": "M34",
+      "category": "service",
+      "description": "M34: Rest area",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Denmark_road_sign_M34.svg",
+      "downloadedAt": "2025-11-05T15:45:47.408Z"
+    },
+    {
+      "filename": "M34.1.svg",
+      "signCode": "M34.1",
+      "category": "service",
+      "description": "M34.1: Rest area for cyclists",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Denmark_road_sign_m34_1.svg",
+      "downloadedAt": "2025-11-05T15:45:48.148Z"
+    },
+    {
+      "filename": "M35.svg",
+      "signCode": "M35",
+      "category": "service",
+      "description": "M35: Beach or swimming pool",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Denmark_road_sign_M35.svg",
+      "downloadedAt": "2025-11-05T15:45:48.809Z"
+    },
+    {
+      "filename": "M35.1.svg",
+      "signCode": "M35.1",
+      "category": "service",
+      "description": "M35.1: Indoor swimming pool",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Denmark_road_sign_M35.1.svg",
+      "downloadedAt": "2025-11-05T15:45:49.527Z"
+    },
+    {
+      "filename": "M36.svg",
+      "signCode": "M36",
+      "category": "service",
+      "description": "M36: Golf Course",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Denmark_road_sign_M36.svg",
+      "downloadedAt": "2025-11-05T15:45:50.190Z"
+    },
+    {
+      "filename": "M37.svg",
+      "signCode": "M37",
+      "category": "service",
+      "description": "M37: Put and take fishing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Denmark_road_sign_M37.svg",
+      "downloadedAt": "2025-11-05T15:45:50.873Z"
+    },
+    {
+      "filename": "M38.svg",
+      "signCode": "M38",
+      "category": "service",
+      "description": "M38: Observation tower",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Denmark_road_sign_M38.svg",
+      "downloadedAt": "2025-11-05T15:45:51.589Z"
+    },
+    {
+      "filename": "M41.svg",
+      "signCode": "M41",
+      "category": "service",
+      "description": "M41: Youth hostel",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Denmark_road_sign_M41.svg",
+      "downloadedAt": "2025-11-05T15:45:52.269Z"
+    },
+    {
+      "filename": "M42.svg",
+      "signCode": "M42",
+      "category": "service",
+      "description": "M42: Hotel",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Denmark_road_sign_M42.svg",
+      "downloadedAt": "2025-11-05T15:45:52.989Z"
+    },
+    {
+      "filename": "M43.svg",
+      "signCode": "M43",
+      "category": "service",
+      "description": "M43: Restaurant",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Denmark_road_sign_M43.svg",
+      "downloadedAt": "2025-11-05T15:45:53.668Z"
+    },
+    {
+      "filename": "M45.svg",
+      "signCode": "M45",
+      "category": "service",
+      "description": "M45: Cafeteria",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Denmark_road_sign_M45.svg",
+      "downloadedAt": "2025-11-05T15:45:54.352Z"
+    },
+    {
+      "filename": "M46.svg",
+      "signCode": "M46",
+      "category": "service",
+      "description": "M46: Toilet",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Denmark_road_sign_M46.svg",
+      "downloadedAt": "2025-11-05T15:45:55.128Z"
+    },
+    {
+      "filename": "M46.1.svg",
+      "signCode": "M46.1",
+      "category": "service",
+      "description": "M46.1: Toilet (handicapped)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Denmark_road_sign_M46_1.svg",
+      "downloadedAt": "2025-11-05T15:45:55.925Z"
+    },
+    {
+      "filename": "M47.svg",
+      "signCode": "M47",
+      "category": "service",
+      "description": "M47: Emptying chemical toilet",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Denmark_road_sign_M47.svg",
+      "downloadedAt": "2025-11-05T15:45:56.638Z"
+    },
+    {
+      "filename": "M47.1.svg",
+      "signCode": "M47.1",
+      "category": "service",
+      "description": "M47.1: Emptying chemical toilet",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Denmark_road_sign_m47_1.svg",
+      "downloadedAt": "2025-11-05T15:45:57.308Z"
+    },
+    {
+      "filename": "M51.svg",
+      "signCode": "M51",
+      "category": "service",
+      "description": "M51: Church",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Denmark_road_sign_M51.svg",
+      "downloadedAt": "2025-11-05T15:45:58.021Z"
+    },
+    {
+      "filename": "M52.svg",
+      "signCode": "M52",
+      "category": "service",
+      "description": "M52: Place of Interest",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Denmark_road_sign_M52.svg",
+      "downloadedAt": "2025-11-05T15:45:58.761Z"
+    },
+    {
+      "filename": "M53.svg",
+      "signCode": "M53",
+      "category": "service",
+      "description": "M53: Unesco world heritage site",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Denmark_road_sign_M54.svg",
+      "downloadedAt": "2025-11-05T15:45:59.438Z"
+    },
+    {
+      "filename": "M54.svg",
+      "signCode": "M54",
+      "category": "service",
+      "description": "M54: National Park",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Denmark_road_sign_M54b.svg",
+      "downloadedAt": "2025-11-05T15:46:00.119Z"
+    },
+    {
+      "filename": "M57.svg",
+      "signCode": "M57",
+      "category": "service",
+      "description": "M57: Industrial area",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Denmark_road_sign_M57.svg",
+      "downloadedAt": "2025-11-05T15:46:00.838Z"
+    },
+    {
+      "filename": "M61.svg",
+      "signCode": "M61",
+      "category": "service",
+      "description": "M61: Information point",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Denmark_road_sign_M61.svg",
+      "downloadedAt": "2025-11-05T15:46:01.568Z"
+    },
+    {
+      "filename": "M101.svg",
+      "signCode": "M101",
+      "category": "service",
+      "description": "M101: Grocery store",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Denmark_road_sign_M101.svg",
+      "downloadedAt": "2025-11-05T15:46:02.326Z"
+    },
+    {
+      "filename": "M102.svg",
+      "signCode": "M102",
+      "category": "service",
+      "description": "M102: Room to let",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Denmark_road_sign_M102.svg",
+      "downloadedAt": "2025-11-05T15:46:02.998Z"
+    },
+    {
+      "filename": "M103.svg",
+      "signCode": "M103",
+      "category": "service",
+      "description": "M103: Baker",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Denmark_road_sign_m103.svg",
+      "downloadedAt": "2025-11-05T15:46:03.658Z"
+    },
+    {
+      "filename": "M104.svg",
+      "signCode": "M104",
+      "category": "service",
+      "description": "M104: Butcher",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Denmark_road_sign_m104.svg",
+      "downloadedAt": "2025-11-05T15:46:04.377Z"
+    },
+    {
+      "filename": "M105.svg",
+      "signCode": "M105",
+      "category": "service",
+      "description": "M105: Hairdresser",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Denmark_road_sign_m105.svg",
+      "downloadedAt": "2025-11-05T15:46:05.098Z"
+    },
+    {
+      "filename": "M107.svg",
+      "signCode": "M107",
+      "category": "service",
+      "description": "M107: Florist",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Denmark_road_sign_m107.svg",
+      "downloadedAt": "2025-11-05T15:46:05.776Z"
+    },
+    {
+      "filename": "M109.svg",
+      "signCode": "M109",
+      "category": "service",
+      "description": "M109: Bookshop",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Denmark_road_sign_m109.svg",
+      "downloadedAt": "2025-11-05T15:46:06.478Z"
+    },
+    {
+      "filename": "M111.svg",
+      "signCode": "M111",
+      "category": "service",
+      "description": "M111: Café",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Denmark_road_sign_m111.svg",
+      "downloadedAt": "2025-11-05T15:46:07.179Z"
+    },
+    {
+      "filename": "M112.svg",
+      "signCode": "M112",
+      "category": "service",
+      "description": "M112: Farm shop",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Denmark_road_sign_M112.svg",
+      "downloadedAt": "2025-11-05T15:46:08.006Z"
+    },
+    {
+      "filename": "M113.svg",
+      "signCode": "M113",
+      "category": "service",
+      "description": "M113: Antiques",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Denmark_road_sign_m113.svg",
+      "downloadedAt": "2025-11-05T15:46:08.758Z"
+    },
+    {
+      "filename": "M114.svg",
+      "signCode": "M114",
+      "category": "service",
+      "description": "M114: Garden centre, plant nursery etc.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Denmark_road_sign_m114.svg",
+      "downloadedAt": "2025-11-05T15:46:09.467Z"
+    },
+    {
+      "filename": "M115.svg",
+      "signCode": "M115",
+      "category": "service",
+      "description": "M115: Marina",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Denmark_road_sign_M115.svg",
+      "downloadedAt": "2025-11-05T15:46:10.185Z"
+    },
+    {
+      "filename": "M116.svg",
+      "signCode": "M116",
+      "category": "service",
+      "description": "M116: Nature reserve",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Denmark_road_sign_m116.svg",
+      "downloadedAt": "2025-11-05T15:46:11.041Z"
+    },
+    {
+      "filename": "M117.svg",
+      "signCode": "M117",
+      "category": "service",
+      "description": "M117: Trail shelter",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Denmark_road_sign_M117_2023.svg",
+      "downloadedAt": "2025-11-05T15:46:11.756Z"
+    },
+    {
+      "filename": "M118.svg",
+      "signCode": "M118",
+      "category": "service",
+      "description": "M118: Sports facility",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Denmark_road_sign_m118.svg",
+      "downloadedAt": "2025-11-05T15:46:12.612Z"
+    },
+    {
+      "filename": "M119.svg",
+      "signCode": "M119",
+      "category": "service",
+      "description": "M119: Car dealership, car rental",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Denmark_road_sign_m119.svg",
+      "downloadedAt": "2025-11-05T15:46:13.329Z"
+    },
+    {
+      "filename": "M120.svg",
+      "signCode": "M120",
+      "category": "service",
+      "description": "M120: Commercial district",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Denmark_road_sign_m120.svg",
+      "downloadedAt": "2025-11-05T15:46:14.008Z"
+    },
+    {
+      "filename": "M121.svg",
+      "signCode": "M121",
+      "category": "service",
+      "description": "M121: Shopping center, street, etc.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Denmark_road_sign_m121.svg",
+      "downloadedAt": "2025-11-05T15:46:14.709Z"
+    },
+    {
+      "filename": "M123.svg",
+      "signCode": "M123",
+      "category": "service",
+      "description": "M123: Education",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Denmark_road_sign_m123.svg",
+      "downloadedAt": "2025-11-05T15:46:15.424Z"
+    },
+    {
+      "filename": "M124.svg",
+      "signCode": "M124",
+      "category": "service",
+      "description": "M124: Veterinary clinic or hospital",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Denmark_road_sign_m124.svg",
+      "downloadedAt": "2025-11-05T15:46:16.169Z"
+    },
+    {
+      "filename": "M125.svg",
+      "signCode": "M125",
+      "category": "service",
+      "description": "M125: Kindergarten etc.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Denmark_road_sign_M125.svg",
+      "downloadedAt": "2025-11-05T15:46:16.909Z"
+    },
+    {
+      "filename": "M126.svg",
+      "signCode": "M126",
+      "category": "service",
+      "description": "M126: Art, pottery, etc.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Denmark_road_sign_m126.svg",
+      "downloadedAt": "2025-11-05T15:46:17.630Z"
+    },
+    {
+      "filename": "M127.svg",
+      "signCode": "M127",
+      "category": "service",
+      "description": "M127: Military",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Denmark_road_sign_m127.svg",
+      "downloadedAt": "2025-11-05T15:46:18.379Z"
+    },
+    {
+      "filename": "M128.svg",
+      "signCode": "M128",
+      "category": "service",
+      "description": "M128: Hospital",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Denmark_road_sign_m128.svg",
+      "downloadedAt": "2025-11-05T15:46:19.094Z"
+    },
+    {
+      "filename": "M129.svg",
+      "signCode": "M129",
+      "category": "service",
+      "description": "M129: Public offices",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Denmark_road_sign_m129.svg",
+      "downloadedAt": "2025-11-05T15:46:19.819Z"
+    },
+    {
+      "filename": "M130.svg",
+      "signCode": "M130",
+      "category": "service",
+      "description": "M130: Cultural center",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Denmark_road_sign_m130.svg",
+      "downloadedAt": "2025-11-05T15:46:20.509Z"
+    },
+    {
+      "filename": "M131.svg",
+      "signCode": "M131",
+      "category": "service",
+      "description": "M131: Recycling",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Denmark_road_sign_m131.svg",
+      "downloadedAt": "2025-11-05T15:46:21.208Z"
+    },
+    {
+      "filename": "M132.svg",
+      "signCode": "M132",
+      "category": "service",
+      "description": "M132: Pharmacy",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Denmark_road_sign_m132.svg",
+      "downloadedAt": "2025-11-05T15:46:21.928Z"
+    },
+    {
+      "filename": "M133.svg",
+      "signCode": "M133",
+      "category": "service",
+      "description": "M133: Cinema",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Denmark_road_sign_m133.svg",
+      "downloadedAt": "2025-11-05T15:46:22.609Z"
+    },
+    {
+      "filename": "M134.svg",
+      "signCode": "M134",
+      "category": "service",
+      "description": "M134: Wellness, massage, beauty clinic, etc.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Denmark_road_sign_m134.svg",
+      "downloadedAt": "2025-11-05T15:46:23.290Z"
+    },
+    {
+      "filename": "M138.svg",
+      "signCode": "M138",
+      "category": "service",
+      "description": "M138: Picnic area, indoor or outdoor",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Denmark_road_sign_m138.svg",
+      "downloadedAt": "2025-11-05T15:46:23.970Z"
+    },
+    {
+      "filename": "M140.svg",
+      "signCode": "M140",
+      "category": "service",
+      "description": "M140: Cohousing",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Denmark_road_sign_m140.svg",
+      "downloadedAt": "2025-11-05T15:46:24.689Z"
+    },
+    {
+      "filename": "M143.svg",
+      "signCode": "M143",
+      "category": "service",
+      "description": "M143: Stud farm",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Denmark_road_sign_m143.svg",
+      "downloadedAt": "2025-11-05T15:46:25.395Z"
+    },
+    {
+      "filename": "M144.svg",
+      "signCode": "M144",
+      "category": "service",
+      "description": "M144: Winery",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Denmark_road_sign_m144.svg",
+      "downloadedAt": "2025-11-05T15:46:26.071Z"
+    },
+    {
+      "filename": "M145.svg",
+      "signCode": "M145",
+      "category": "service",
+      "description": "M145: Drivers education",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Denmark_road_sign_m145.svg",
+      "downloadedAt": "2025-11-05T15:46:26.767Z"
+    },
+    {
+      "filename": "M146.svg",
+      "signCode": "M146",
+      "category": "service",
+      "description": "M146: Forest burial ground (cremated remains)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Denmark_road_sign_m146.svg",
+      "downloadedAt": "2025-11-05T15:46:27.614Z"
+    },
+    {
+      "filename": "U1.1.svg",
+      "signCode": "U1.1",
+      "category": "subpanels",
+      "description": "U1.1: Distance (here in 500 meters)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Denmark_road_sign_U1_1.svg",
+      "downloadedAt": "2025-11-05T15:46:28.395Z"
+    },
+    {
+      "filename": "U1.2.svg",
+      "signCode": "U1.2",
+      "category": "subpanels",
+      "description": "U1.2: Distance (here in 500 meters)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Denmark_road_sign_U1_2.svg",
+      "downloadedAt": "2025-11-05T15:46:29.150Z"
+    },
+    {
+      "filename": "U2.1.svg",
+      "signCode": "U2.1",
+      "category": "subpanels",
+      "description": "U2.1: Distance interval (here from 200 to 800 meters)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Denmark_road_sign_U2_1.svg",
+      "downloadedAt": "2025-11-05T15:46:29.913Z"
+    },
+    {
+      "filename": "U2.2.svg",
+      "signCode": "U2.2",
+      "category": "subpanels",
+      "description": "U2.2: Distance interval (here from 200 to 800 meters)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Denmark_road_sign_U2_2.svg",
+      "downloadedAt": "2025-11-05T15:46:30.648Z"
+    },
+    {
+      "filename": "U3.1.svg",
+      "signCode": "U3.1",
+      "category": "subpanels",
+      "description": "U3.1: Length of time (here 1 hour)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Denmark_road_sign_U3_1.svg",
+      "downloadedAt": "2025-11-05T15:46:31.308Z"
+    },
+    {
+      "filename": "U3.2.svg",
+      "signCode": "U3.2",
+      "category": "subpanels",
+      "description": "U3.2: Day of week (here Wednesday)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Denmark_road_sign_U3_2.svg",
+      "downloadedAt": "2025-11-05T15:46:32.049Z"
+    },
+    {
+      "filename": "U3.3.svg",
+      "signCode": "U3.3",
+      "category": "subpanels",
+      "description": "U3.3: Time of day on weekdays. If in parenthesis, Saturdays, if in red, Sundays or holidays. (here from 8 AM to 5 PM weekdays, from 8 AM to 2 PM Saturdays and from 9 AM to 12 AM on Sundays or holidays",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Denmark_road_sign_U3_3.svg",
+      "downloadedAt": "2025-11-05T15:46:32.729Z"
+    },
+    {
+      "filename": "U3.4.svg",
+      "signCode": "U3.4",
+      "category": "subpanels",
+      "description": "U3.4:: Length of time (here 1 hour)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Denmark_road_sign_U3_4.svg",
+      "downloadedAt": "2025-11-05T15:46:33.388Z"
+    },
+    {
+      "filename": "U3.5.svg",
+      "signCode": "U3.5",
+      "category": "subpanels",
+      "description": "U3.5:  Day of week (here Wednesday)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Denmark_road_sign_U3_5.svg",
+      "downloadedAt": "2025-11-05T15:46:34.111Z"
+    },
+    {
+      "filename": "U3.6.svg",
+      "signCode": "U3.6",
+      "category": "subpanels",
+      "description": "U3.6: Time of day on weekdays. If in parenthesis, Saturdays, if in red, Sundays or holidays. (here from 8 AM to 5 PM weekdays, from 8 AM to 2 PM Saturdays and from 9 AM to 12 AM on Sundays or holidays",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Denmark_road_sign_U3_6.svg",
+      "downloadedAt": "2025-11-05T15:46:34.899Z"
+    },
+    {
+      "filename": "U4.1.svg",
+      "signCode": "U4.1",
+      "category": "subpanels",
+      "description": "U4.1: Type(s) of vehicle (here heavy goods vehicle)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Denmark_road_sign_U4_1.svg",
+      "downloadedAt": "2025-11-05T15:46:35.679Z"
+    },
+    {
+      "filename": "U4.2.svg",
+      "signCode": "U4.2",
+      "category": "subpanels",
+      "description": "U4.2: Type(s) of vehicle (here heavy goods vehicle)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Denmark_road_sign_U4_2.svg",
+      "downloadedAt": "2025-11-05T15:46:36.401Z"
+    },
+    {
+      "filename": "U5.1.svg",
+      "signCode": "U5.1",
+      "category": "subpanels",
+      "description": "U5.1: Bicycles and small mopeds exempt",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Denmark_road_sign_U5_1.svg",
+      "downloadedAt": "2025-11-05T15:46:37.119Z"
+    },
+    {
+      "filename": "U5.2.svg",
+      "signCode": "U5.2",
+      "category": "subpanels",
+      "description": "U5.2: Bicycles and small mopeds exempt",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Denmark_road_sign_U5_2.svg",
+      "downloadedAt": "2025-11-05T15:46:37.860Z"
+    },
+    {
+      "filename": "U6.3.svg",
+      "signCode": "U6.3",
+      "category": "subpanels",
+      "description": "U6.3: A sign combination this panel is a part of, takes effect after a right turn in the intersection ahead",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Denmark_road_sign_U6_3.svg",
+      "downloadedAt": "2025-11-05T15:46:38.559Z"
+    },
+    {
+      "filename": "U6.4.svg",
+      "signCode": "U6.4",
+      "category": "subpanels",
+      "description": "U6.4: A sign combination this panel is a part of, takes effect after a right turn in the intersection ahead",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Denmark_road_sign_U6_4.svg",
+      "downloadedAt": "2025-11-05T15:46:39.219Z"
+    },
+    {
+      "filename": "U7.svg",
+      "signCode": "U7",
+      "category": "subpanels",
+      "description": "U7: Bicycles and small mopeds may make right turn when traffic signal is red.",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Denmark_road_sign_U7.svg",
+      "downloadedAt": "2025-11-05T15:46:39.921Z"
+    },
+    {
+      "filename": "US1.svg",
+      "signCode": "US1",
+      "category": "symbols",
+      "description": "US1: Car (not above 3.5 ton registered weight)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Denmark_road_sign_US1.svg",
+      "downloadedAt": "2025-11-05T15:46:40.629Z"
+    },
+    {
+      "filename": "US2.svg",
+      "signCode": "US2",
+      "category": "symbols",
+      "description": "US2: Heavy goods vehicle with or without  a trailer",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Heavy_goods_vechicle_dk_us2_2023.svg",
+      "downloadedAt": "2025-11-05T15:46:51.407Z"
+    },
+    {
+      "filename": "US3.svg",
+      "signCode": "US3",
+      "category": "symbols",
+      "description": "US3: Bus (above 3.5 ton registered weight, or is allowed to carry more than 8 passengers)",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Denmark_road_sign_US3.svg",
+      "downloadedAt": "2025-11-05T15:46:52.179Z"
+    },
+    {
+      "filename": "US4.svg",
+      "signCode": "US4",
+      "category": "symbols",
+      "description": "US4: Heavy goods vehicle with trailer",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Heavy_goods_vechicle_dk_us4.svg",
+      "downloadedAt": "2025-11-05T15:46:53.298Z"
+    },
+    {
+      "filename": "US5.svg",
+      "signCode": "US5",
+      "category": "symbols",
+      "description": "US5: Trailer",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Denmark_road_sign_US5.svg",
+      "downloadedAt": "2025-11-05T15:46:54.030Z"
+    },
+    {
+      "filename": "US6.svg",
+      "signCode": "US6",
+      "category": "symbols",
+      "description": "US6: Caravan",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Denmark_road_US6.svg",
+      "downloadedAt": "2025-11-05T15:46:54.709Z"
+    },
+    {
+      "filename": "US7.svg",
+      "signCode": "US7",
+      "category": "symbols",
+      "description": "US7: Motorhome",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Denmark_road_sign_US7.svg",
+      "downloadedAt": "2025-11-05T15:46:55.409Z"
+    },
+    {
+      "filename": "US8.svg",
+      "signCode": "US8",
+      "category": "symbols",
+      "description": "US8: Bicycle or small moped",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Denmark_road_sign_US8.svg",
+      "downloadedAt": "2025-11-05T15:46:56.127Z"
+    },
+    {
+      "filename": "US9.svg",
+      "signCode": "US9",
+      "category": "symbols",
+      "description": "US9:Small moped",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Denmark_road_sign_US9.svg",
+      "downloadedAt": "2025-11-05T15:46:56.855Z"
+    },
+    {
+      "filename": "US10.svg",
+      "signCode": "US10",
+      "category": "symbols",
+      "description": "US10: Motorcycle or large moped",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Denmark_road_sign_US10.svg",
+      "downloadedAt": "2025-11-05T15:46:57.529Z"
+    },
+    {
+      "filename": "US11.svg",
+      "signCode": "US11",
+      "category": "symbols",
+      "description": "US11: Tractor or motorized equipment",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Denmark_road_sign_US11.svg",
+      "downloadedAt": "2025-11-05T15:46:58.222Z"
+    },
+    {
+      "filename": "US12.svg",
+      "signCode": "US12",
+      "category": "symbols",
+      "description": "US12: Disabled",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Denmark_road_sign_US12.svg",
+      "downloadedAt": "2025-11-05T15:46:58.909Z"
+    },
+    {
+      "filename": "US13.svg",
+      "signCode": "US13",
+      "category": "symbols",
+      "description": "US13: Light rail",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Denmark_road_sign_US13.svg",
+      "downloadedAt": "2025-11-05T15:46:59.569Z"
+    },
+    {
+      "filename": "Slippery_road.svg",
+      "signCode": null,
+      "category": "unknown",
+      "description": "Slippery road",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Denmark_road_sign_1955_set_slippery_road.svg",
+      "downloadedAt": "2025-11-05T15:47:00.319Z"
+    },
+    {
+      "filename": "Goods_vehicles_prohibited.svg",
+      "signCode": null,
+      "category": "unknown",
+      "description": "Goods vehicles prohibited",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Denmark_road_sign_1955_set_goods_vehicle.svg",
+      "downloadedAt": "2025-11-05T15:47:01.223Z"
+    }
+  ],
+  "categories": [
+    "warning",
+    "priority",
+    "prohibitory",
+    "mandatory",
+    "special-regulation",
+    "direction",
+    "guide",
+    "distance-locality",
+    "motorway",
+    "route",
+    "service",
+    "subpanels",
+    "symbols"
+  ]
+}

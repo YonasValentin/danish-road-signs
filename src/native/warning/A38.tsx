@@ -1,0 +1,31 @@
+import React from 'react';
+import Svg, { SvgProps } from 'react-native-svg';
+
+export interface A38Props extends Omit<SvgProps, 'viewBox'> {
+  width?: number | string;
+  height?: number | string;
+}
+
+export const A38: React.FC<A38Props> = ({
+  width = 100,
+  height = 100,
+  ...props
+}) => (
+  <Svg
+    width={width}
+    height={height}
+    viewBox="0 0 1e3 895"
+    {...props}
+  >
+    <g fill="#f00">
+  <circle cx="499.55" cy="80.615" r="69.343"/>
+  <circle cx="68.751" cy="825.5" r="69.343"/>
+  <circle cx="930.78" cy="825.5" r="69.343"/>
+  <polygon points="439.5 46 559.8 46 994 796 930.4 894.6 69.6 894.7 6 796"/>
+ </g>
+ <polygon points="500 162 859 785 140 785" fill="#fff"/>
+ <path d="m802.55 684.94-92.6 0.13324c-28.694-0.17791-54.113 11.559-63.452 21.254-41.673 33.927-94.006 52.765-148.36 52.781l-0.0578 0.2846c-53.423-0.60854-104.75-19.368-145.76-52.75-9.3382-9.6951-34.76-21.432-63.454-21.254l-91.423-0.13325-56.797 100.06 718.29-0.31425z" />
+  </Svg>
+);
+
+A38.displayName = 'A38';

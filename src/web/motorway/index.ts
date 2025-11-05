@@ -1,0 +1,14 @@
+// Auto-generated exports for motorway category
+export { I11 } from './I11';
+export { I12 } from './I12';
+export { I13 } from './I13';
+export { I16 } from './I16';
+export { I17 } from './I17';
+export { I18 } from './I18';
+export { I20 } from './I20';
+export { J11 } from './J11';
+export { J12 } from './J12';
+export { J13 } from './J13';
+export { K11 } from './K11';
+export { K12 } from './K12';
+export { K30 } from './K30';

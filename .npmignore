@@ -1,0 +1,29 @@
+# Source files (dist is what we publish)
+src/
+scripts/
+
+# SVG sources (already compiled to components)
+*.svg
+
+# Development files
+test.js
+tsconfig.json
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

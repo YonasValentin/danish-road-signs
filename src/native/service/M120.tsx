@@ -1,0 +1,30 @@
+import React from 'react';
+import Svg, { SvgProps } from 'react-native-svg';
+
+export interface M120Props extends Omit<SvgProps, 'viewBox'> {
+  width?: number | string;
+  height?: number | string;
+}
+
+export const M120: React.FC<M120Props> = ({
+  width = 100,
+  height = 100,
+  ...props
+}) => (
+  <Svg
+    width={width}
+    height={height}
+    viewBox="0 0 100 100"
+    {...props}
+  >
+    <path d="m0 96c0-55 38-96 96-96h808c48 0 96 38 96 96v808c0 55-38 99-96 96h-808c-55 0-96-38-96-96z" fill="#0071bb"/>
+ <path d="m10 96.072c0-47 39-86 86-86h808c47 0 86 39 86 86v808c0 47-39 86-86 86h-808c-47 0-86-39-86-86z" fill="#fff"/>
+ <path d="m42 96.072c0-25.946 27-54 54-54h808c26 0 54 27 54 54v810c0 26-27 52-54 52h-808c-26 0-54-27-54-54z" fill="#0071bb"/>
+ <path d="m180 150.09h640c16.608 0 29.978 13.37 29.978 29.978v640c0 16.608-13.37 29.978-29.978 29.978h-640c-16.608 0-29.978-13.37-29.978-29.978v-640c0-16.608 13.37-29.978 29.978-29.978z" fill="#fff"/>
+ <path d="m672.59 354.44v199.45l30.828-6.5254v-192.93h-30.828z" />
+ <path d="m378.78 385.63-0.01 4e-3 -172.37 48v61.811h94.523v32.182h-94.523v53.818h94.523v37.635h-94.523v79.75h214.7v-91.707l131.41-27.814v-145.68z"/>
+ <path d="m788.05 542.23-354.45 75.023v170.18h79.123v-88.604h62.773v88.604h213.58v-119.39z" />
+  </Svg>
+);
+
+M120.displayName = 'M120';
