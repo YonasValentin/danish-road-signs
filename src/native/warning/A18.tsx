@@ -1,5 +1,5 @@
 import React from 'react';
-import Svg, { SvgProps } from 'react-native-svg';
+import Svg, { ClipPath, Defs, G, Path, SvgProps } from 'react-native-svg';
 
 export interface A18Props extends Omit<SvgProps, 'viewBox'> {
   width?: number | string;
@@ -17,88 +17,88 @@ export const A18: React.FC<A18Props> = ({
     viewBox="0 0 100 100"
     {...props}
   >
-    <defs
+    <Defs
      id="defs5323">
 
-<clipPath
+<ClipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath4202">
-  <path
+  <Path
      d="m 20.045,731.714 42.114,0 0,37.012 -42.114,0 0,-37.012 z"
      id="path4204" />
-</clipPath>
+</ClipPath>
 
 
-<clipPath
+<ClipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath2840">
-  <path
+  <Path
      d="m 77.057,731.714 42.114,0 0,37.012 -42.114,0 0,-37.012 z"
      id="path2842" />
-</clipPath>
+</ClipPath>
 
-<clipPath
+<ClipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath3036">
-  <path
+  <Path
      d="m 134.072,731.751 42.114,0 0,36.975 -42.114,0 0,-36.975 z"
      id="path3038" />
-</clipPath>
+</ClipPath>
 
-<clipPath
+<ClipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath2952">
-  <path
+  <Path
      d="m 191.084,731.751 42.113,0 0,36.975 -42.113,0 0,-36.975 z"
      id="path2954" />
-</clipPath>
-<clipPath
+</ClipPath>
+<ClipPath
    clipPathUnits="userSpaceOnUse"
    id="clipPath2936">
-  <path
+  <Path
      d="m 191.084,731.751 42.113,0 0,36.975 -42.113,0 0,-36.975 z"
      id="path2938" />
-</clipPath>
+</ClipPath>
 
 
 
-	</defs>
+	</Defs>
   
   
-  <g
+  <G
      id="layer1"
-     transform="translate(190.28609,-157.71711)"><path
+     transform="translate(190.28609,-157.71711)"><Path
    id="path4208"
    d="m -187.8599,499.88929 c -3.40816,-5.44927 -3.05691,-12.59787 0,-17.70537 L -6.0404704,166.90493 c 3.3986715,-5.43977 9.1897039,-9.18971 15.6547745,-9.18971 6.4650709,0 12.2561029,3.74994 15.3225019,8.85744 L 207.08851,481.84215 c 3.0664,5.44927 3.39867,12.59787 0,18.04714 -3.0664,5.79103 -9.18971,9.1992 -15.3225,9.1992 l -364.30341,0 c -6.1328,0 -12.26559,-3.40817 -15.3225,-9.1992" />
-<g
+<G
    id="g4210"
    transform="matrix(9.4934957,0,0,-9.4934957,-187.8599,499.88929)">
-  <path
+  <Path
      d="m 0,0 c -0.359,0.574 -0.322,1.327 0,1.865 l 19.152,33.21 c 0.358,0.573 0.968,0.968 1.649,0.968 0.681,0 1.291,-0.395 1.614,-0.933 L 41.602,1.901 C 41.925,1.327 41.96,0.574 41.602,0 41.279,-0.61 40.634,-0.969 39.988,-0.969 l -38.374,0 C 0.968,-0.969 0.322,-0.61 0,0 M 35.47,3.551 20.801,28.942 6.133,3.551 l 29.337,0 z"
      id="path4212" />
-</g>
-<g
+</G>
+<G
    transform="translate(-501.54702,586.32528)"
    id="layer1-0" />
-<g
+<G
    transform="matrix(9.5707543,0,0,-9.5707543,-2019.59,7508.079)"
    id="g2948">
-  <g
+  <G
      id="g2950"
      clip-path="url(#clipPath2952)">
-    <g
+    <G
        id="g2956"
        transform="translate(206.4055,742.4377)">
-      <path
+      <Path
          d="m 0,0 0,7.018 2.102,0 0,-7.018 2.921,0.57 0.035,0 c 0.178,0 0.285,-0.107 0.285,-0.285 0,-0.071 0,-0.107 -0.035,-0.142 L 1.283,-5.379 C 1.247,-5.45 1.175,-5.485 1.068,-5.485 c -0.106,0 -0.177,0.035 -0.248,0.106 l -3.99,5.522 c -0.036,0.035 -0.072,0.071 -0.072,0.142 0,0.178 0.143,0.285 0.285,0.285 l 0.072,0 L 0,0 z m 11.399,1.817 0,-7.017 -2.101,0 0,7.017 -2.922,-0.57 -0.036,0 c -0.177,0 -0.285,0.106 -0.285,0.285 0,0.071 0,0.107 0.036,0.142 l 4.025,5.521 c 0.036,0.072 0.143,0.108 0.215,0.108 0.106,0 0.177,-0.036 0.249,-0.108 l 3.989,-5.521 c 0.036,-0.035 0.072,-0.071 0.072,-0.142 0,-0.179 -0.107,-0.285 -0.285,-0.285 l -0.072,0 -2.885,0.57 z"
          id="path2958" />
-    </g>
-  </g>
-</g>
+    </G>
+  </G>
+</G>
 
 	
 	
-</g>
+</G>
   </Svg>
 );
 

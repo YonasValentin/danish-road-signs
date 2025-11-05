@@ -1,5 +1,5 @@
 import React from 'react';
-import Svg, { SvgProps } from 'react-native-svg';
+import Svg, { ClipPath, Defs, G, Path, SvgProps } from 'react-native-svg';
 
 export interface B15Props extends Omit<SvgProps, 'viewBox'> {
   width?: number | string;
@@ -17,102 +17,102 @@ export const B15: React.FC<B15Props> = ({
     viewBox="0 0 100 100"
     {...props}
   >
-    <defs
+    <Defs
      id="defs5323">
     
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4202">
-      <path
+      <Path
          d="m 20.045,731.714 42.114,0 0,37.012 -42.114,0 0,-37.012 z"
          id="path4204" />
-    </clipPath>
+    </ClipPath>
     
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2840">
-      <path
+      <Path
          d="m 77.057,731.714 42.114,0 0,37.012 -42.114,0 0,-37.012 z"
          id="path2842" />
-    </clipPath>
+    </ClipPath>
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3036">
-      <path
+      <Path
          d="m 134.072,731.751 42.114,0 0,36.975 -42.114,0 0,-36.975 z"
          id="path3038" />
-    </clipPath>
+    </ClipPath>
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2952">
-      <path
+      <Path
          d="m 191.084,731.751 42.113,0 0,36.975 -42.113,0 0,-36.975 z"
          id="path2954" />
-    </clipPath>
-    <clipPath
+    </ClipPath>
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2936">
-      <path
+      <Path
          d="m 191.084,731.751 42.113,0 0,36.975 -42.113,0 0,-36.975 z"
          id="path2938" />
-    </clipPath>
+    </ClipPath>
     
     
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3216">
-      <path
+      <Path
          d="m 248.098,731.74 42.114,0 0,36.986 -42.114,0 0,-36.986 z"
          id="path3218" />
-    </clipPath>
+    </ClipPath>
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath2880">
-      <path
+      <Path
          d="m 305.111,731.751 42.114,0 0,36.975 -42.114,0 0,-36.975 z"
          id="path2882" />
-    </clipPath>
+    </ClipPath>
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3316">
-      <path
+      <Path
          d="m 77.057,409.341 42.114,0 0,42.114 -42.114,0 0,-42.114 z"
          id="path3318" />
-    </clipPath>
+    </ClipPath>
     
-    <clipPath
+    <ClipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3802">
-      <path
+      <Path
          d="m 134.072,409.341 42.114,0 0,56.174 -42.114,0 0,-56.174 z"
          id="path3804" />
-    </clipPath>
-  </defs>
+    </ClipPath>
+  </Defs>
   
   
-  <g
+  <G
      id="layer1"
      transform="translate(-231.8189,-172.03719)">
-    <g
+    <G
        transform="translate(-501.54702,586.32528)"
        id="layer1-0" />
-    <path
+    <Path
        id="path3808"
        d="m 406.51717,310.17005 0,-79.98525 -24.88778,-24.88778 -24.88066,24.88778 0,79.98525 c 0,76.68396 -36.05811,149.30533 -96.49173,196.54088 l 38.08584,0 0,35.04069 c 39.35941,-37.07554 69.07106,-74.40009 83.28655,-123.40724 13.96647,49.00715 43.93426,86.3317 83.29366,123.40724 l 0,-35.04069 38.08585,0 C 442.57528,459.47538 406.51717,386.85401 406.51717,310.17005" />
-    <path
+    <Path
        id="path3812"
        d="m 464.92163,506.71023 0,35.04068 c -39.3594,-37.07553 -69.32008,-74.40008 -83.28655,-123.40724 -14.2226,49.00716 -43.93426,86.33171 -83.29366,123.40724 l 0,-35.04068 -38.08584,0 C 320.68919,459.47468 356.7473,386.8533 356.7473,310.16935 l 0,-79.98526 24.88778,-24.88778 24.88067,24.88778 0,79.98526 c 0,76.68395 36.06522,149.30533 96.49172,196.54088 l -38.08584,0 z m 53.31876,-328.32943 -273.21773,0 c -3.55743,0 -6.6097,3.05227 -6.6097,6.85872 l 0,373.26689 c 0,3.81356 3.05227,6.6097 6.6097,6.6097 l 273.21773,0 c 3.81356,0 6.85872,-2.79614 6.85872,-6.6097 l 0,-373.26689 c 0,-3.80645 -3.04516,-6.85872 -6.85872,-6.85872" />
-    <path
+    <Path
        id="path3816"
        d="m 525.10053,558.50925 c 0,3.80645 -3.05227,6.60259 -6.85872,6.60259 l -273.21773,0 c -3.55743,0 -6.60971,-2.79614 -6.60971,-6.60259 l 0,-373.26688 c 0,-3.81357 3.05228,-6.85873 6.60971,-6.85873 l 273.21773,0 c 3.80645,0 6.85872,3.04516 6.85872,6.85873 l 0,373.26688 z m -6.85872,-386.47206 -273.21773,0 c -7.371,0 -13.20518,5.8413 -13.20518,13.20518 l 0,373.26688 c 0,7.36388 5.83418,13.20518 13.20518,13.20518 l 273.21773,0 c 7.36388,0 13.20517,-5.8413 13.20517,-13.20518 l 0,-373.26688 c 0,-7.36388 -5.84129,-13.20518 -13.20517,-13.20518" />
-  </g>
+  </G>
   </Svg>
 );
 

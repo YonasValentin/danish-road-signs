@@ -33,6 +33,62 @@ function extractViewBox(svgContent: string): string {
   return match ? match[1] : '0 0 100 100';
 }
 
+function capitalizeSVGElements(content: string): string {
+  // Mapping of SVG elements to their React Native equivalents
+  // Some elements need special capitalization (e.g., tspan -> TSpan)
+  const elementMap: { [key: string]: string } = {
+    'path': 'Path',
+    'g': 'G',
+    'rect': 'Rect',
+    'circle': 'Circle',
+    'ellipse': 'Ellipse',
+    'line': 'Line',
+    'polyline': 'Polyline',
+    'polygon': 'Polygon',
+    'text': 'Text',
+    'tspan': 'TSpan',  // Special case: tspan -> TSpan (not Tspan)
+    'defs': 'Defs',
+    'linearGradient': 'LinearGradient',
+    'radialGradient': 'RadialGradient',
+    'stop': 'Stop',
+    'clipPath': 'ClipPath',
+    'mask': 'Mask',
+    'pattern': 'Pattern',
+    'image': 'Image',
+    'use': 'Use',
+    'symbol': 'Symbol',
+    'marker': 'Marker',
+    'foreignObject': 'ForeignObject',
+    'switch': 'Switch',
+    'a': 'A',
+    'view': 'View'
+  };
+
+  let result = content;
+
+  for (const [element, capitalizedElement] of Object.entries(elementMap)) {
+    // Replace opening tags: <element (with space, newline, tab, or >)
+    result = result.replace(
+      new RegExp(`<${element}([\\s>])`, 'gi'),
+      `<${capitalizedElement}$1`
+    );
+
+    // Replace self-closing tags: <element/> -> <Element/>
+    result = result.replace(
+      new RegExp(`<${element}([^>]*/)>`, 'gi'),
+      `<${capitalizedElement}$1>`
+    );
+
+    // Replace closing tags: </element> -> </Element>
+    result = result.replace(
+      new RegExp(`</${element}>`, 'gi'),
+      `</${capitalizedElement}>`
+    );
+  }
+
+  return result;
+}
+
 function extractSVGContent(svgContent: string): string {
   // Remove the outer <svg> tags and extract the inner content
   let content = svgContent
@@ -91,7 +147,31 @@ function extractSVGContent(svgContent: string): string {
     .replace(/font-weight=/g, 'fontWeight=')
     .replace(/xml:space=/g, 'xmlSpace=');
 
+  // CRITICAL: Capitalize SVG elements for React Native
+  content = capitalizeSVGElements(content);
+
   return content;
+}
+
+function detectUsedSVGElements(content: string): string[] {
+  // Detect which SVG elements are used in the content
+  const usedElements = new Set<string>();
+  const svgElements = [
+    'Path', 'G', 'Rect', 'Circle', 'Ellipse', 'Line', 'Polyline', 'Polygon',
+    'Text', 'TSpan', 'Defs', 'LinearGradient', 'RadialGradient', 'Stop',
+    'ClipPath', 'Mask', 'Pattern', 'Image', 'Use', 'Symbol', 'Marker',
+    'ForeignObject', 'Switch', 'A', 'View'
+  ];
+
+  for (const element of svgElements) {
+    // Check if element is used in the content (look for opening tag)
+    const regex = new RegExp(`<${element}[\\s/>]`, 'gi');
+    if (regex.test(content)) {
+      usedElements.add(element);
+    }
+  }
+
+  return Array.from(usedElements).sort();
 }
 
 function generateReactNativeComponent(filename: string, svgContent: string): string {
@@ -99,8 +179,14 @@ function generateReactNativeComponent(filename: string, svgContent: string): str
   const viewBox = extractViewBox(svgContent);
   const innerContent = extractSVGContent(svgContent);
 
+  // Detect which SVG components are used
+  const usedElements = detectUsedSVGElements(innerContent);
+  const svgImports = usedElements.length > 0
+    ? `, { ${usedElements.join(', ')}, SvgProps }`
+    : ', { SvgProps }';
+
   return `import React from 'react';
-import Svg, { SvgProps } from 'react-native-svg';
+import Svg${svgImports} from 'react-native-svg';
 
 export interface ${componentName}Props extends Omit<SvgProps, 'viewBox'> {
   width?: number | string;
