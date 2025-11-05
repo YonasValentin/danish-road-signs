@@ -1,6 +1,6 @@
 {
   "name": "@yonas-valentin/danish-road-signs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete collection of Danish road signs in dual format (React Native + Web)",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
