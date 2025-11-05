@@ -14,7 +14,7 @@ export const G14: React.FC<G14Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 612"
     {...props}
   >
     <Defs

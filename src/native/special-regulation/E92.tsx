@@ -14,7 +14,7 @@ export const E92: React.FC<E92Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 215"
     {...props}
   >
     <Path d="m0 0h1e3v214.62h-1e3z"/>

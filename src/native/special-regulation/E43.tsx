@@ -14,7 +14,7 @@ export const E43: React.FC<E43Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 402 588"
     {...props}
   >
     <Defs

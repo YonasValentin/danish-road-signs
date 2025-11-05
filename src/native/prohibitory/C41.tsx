@@ -14,7 +14,7 @@ export const C41: React.FC<C41Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 399 399"
     {...props}
   >
     <Defs

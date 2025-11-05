@@ -13,7 +13,7 @@ export const G18: React.FC<G18Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 601 533"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

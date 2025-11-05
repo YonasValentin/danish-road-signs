@@ -14,7 +14,7 @@ export const E31: React.FC<E31Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 400 200"
     {...props}
   >
     <Defs

@@ -14,7 +14,7 @@ export const UC57: React.FC<UC57Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 1642"
     {...props}
   >
     <Path d="m1e3 1545c0 55-38 96-96 96h-808c-48 0-96-38-96-96v-471.53c0-55 38-99 96-96h808c55 0 96 38 96 96z" fill="#f00"/>

@@ -14,7 +14,7 @@ export const Goods_vehicles_prohibited: React.FC<Goods_vehicles_prohibitedProps>
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 1000"
     {...props}
   >
     <Path d="m502.8 998.05c-273.73 0-495.63-221.9-495.63-495.63 0-273.73 221.9-495.63 495.63-495.63 273.73 0 495.63 221.9 495.63 495.63 0 273.73-221.9 495.63-495.63 495.63z" fill="#ed171f"/>

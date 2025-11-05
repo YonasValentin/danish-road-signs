@@ -14,7 +14,7 @@ export const H51: React.FC<H51Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 85 85"
     {...props}
   >
     

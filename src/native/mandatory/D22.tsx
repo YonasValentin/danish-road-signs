@@ -14,7 +14,7 @@ export const D22: React.FC<D22Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 401 401"
     {...props}
   >
     <Defs

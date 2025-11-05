@@ -13,7 +13,7 @@ export const UE33_1: React.FC<UE33_1Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 660 1000"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

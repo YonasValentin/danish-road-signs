@@ -13,7 +13,7 @@ export const H41: React.FC<H41Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 600 401"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

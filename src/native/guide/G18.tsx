@@ -14,7 +14,7 @@ export const G18: React.FC<G18Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 601 533"
     {...props}
   >
     <G transform="matrix(6.0405 0 0 -6.0405 27.261 154.21)" fill="#1277bd">

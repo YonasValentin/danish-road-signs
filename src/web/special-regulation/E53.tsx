@@ -13,7 +13,7 @@ export const E53: React.FC<E53Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 401 501"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

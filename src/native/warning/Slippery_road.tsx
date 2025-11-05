@@ -14,7 +14,7 @@ export const Slippery_road: React.FC<Slippery_roadProps> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 878"
     {...props}
   >
     <Path d="m4.0071 815.75c-13.04 22.585 9.2715 62.279 30.506 62.279 310.91-0.086 621.79-0.16933 932.7-0.25261 23.677 0 39.548-44.118 28.92-62.526l-460.12-796.6c-17.206-23.925-58.016-22.603-72.265-0.15757z" fill="#d93f3c"/>

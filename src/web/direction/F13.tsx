@@ -13,7 +13,7 @@ export const F13: React.FC<F13Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 940 223"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

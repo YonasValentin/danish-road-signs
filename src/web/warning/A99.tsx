@@ -13,7 +13,7 @@ export const A99: React.FC<A99Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 400 352"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

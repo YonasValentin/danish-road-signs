@@ -14,7 +14,7 @@ export const US4: React.FC<US4Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 360"
     {...props}
   >
     <Path d="m177.86 0h392.1v255.42h-392.1z"/>

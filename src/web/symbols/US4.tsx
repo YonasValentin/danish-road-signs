@@ -13,7 +13,7 @@ export const US4: React.FC<US4Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 360"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

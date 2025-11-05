@@ -13,7 +13,7 @@ export const UE80: React.FC<UE80Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 600 1021"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

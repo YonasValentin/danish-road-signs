@@ -14,7 +14,7 @@ export const M54: React.FC<M54Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 1000"
     {...props}
   >
     <Path d="M0 96C0 41 38 0 96 0h808c48 0 96 38 96 96v808c0 55-38 99-96 96H96c-55 0-96-38-96-96z" fill="#733f0f"/>

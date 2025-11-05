@@ -22,8 +22,25 @@ const CATEGORIES = [
 ];
 
 function extractViewBox(svgContent: string): string {
-  const match = svgContent.match(/viewBox="([^"]+)"/);
-  return match ? match[1] : '0 0 100 100';
+  // First try to find an explicit viewBox attribute
+  const viewBoxMatch = svgContent.match(/viewBox="([^"]+)"/);
+  if (viewBoxMatch) {
+    return viewBoxMatch[1];
+  }
+
+  // If no viewBox, try to construct one from width and height
+  const widthMatch = svgContent.match(/width="([^"]+)"/);
+  const heightMatch = svgContent.match(/height="([^"]+)"/);
+
+  if (widthMatch && heightMatch) {
+    const width = parseFloat(widthMatch[1]);
+    const height = parseFloat(heightMatch[1]);
+    // Round up to nearest integer for cleaner viewBox
+    return `0 0 ${Math.ceil(width)} ${Math.ceil(height)}`;
+  }
+
+  // Fallback to a reasonable default
+  return '0 0 100 100';
 }
 
 function extractSVGContent(svgContent: string): string {

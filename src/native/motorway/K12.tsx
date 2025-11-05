@@ -14,7 +14,7 @@ export const K12: React.FC<K12Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 647"
     {...props}
   >
     <Path d="m0 99.393c0-55 38-96 96-96h808c48 0 96 38 96 96v448c0 55-38 99-96 96h-808c-55 0-96-38-96-96z" fill="#00ab67"/>

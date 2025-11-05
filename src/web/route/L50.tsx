@@ -13,7 +13,7 @@ export const L50: React.FC<L50Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 80 80"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

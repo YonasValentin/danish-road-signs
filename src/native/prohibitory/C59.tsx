@@ -14,7 +14,7 @@ export const C59: React.FC<C59Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 402 402"
     {...props}
   >
     <Defs

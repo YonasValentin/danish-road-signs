@@ -14,7 +14,7 @@ export const US13: React.FC<US13Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 555"
     {...props}
   >
     <Path d="m181.69 554.72c22.847 0 41.295-18.489 41.295-41.295h-82.591c0 22.806 18.448 41.295 41.296 41.295"/>

@@ -14,7 +14,7 @@ export const D11_7: React.FC<D11_7Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 401 401"
     {...props}
   >
     <Defs

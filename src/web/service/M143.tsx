@@ -13,7 +13,7 @@ export const M143: React.FC<M143Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 1000 1000"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

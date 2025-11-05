@@ -13,7 +13,7 @@ export const E45: React.FC<E45Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 402 588"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

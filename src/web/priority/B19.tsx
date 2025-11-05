@@ -13,7 +13,7 @@ export const B19: React.FC<B19Props> = ({
   <svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 400 400"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >

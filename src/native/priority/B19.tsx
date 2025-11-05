@@ -14,7 +14,7 @@ export const B19: React.FC<B19Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 400 400"
     {...props}
   >
     <Defs

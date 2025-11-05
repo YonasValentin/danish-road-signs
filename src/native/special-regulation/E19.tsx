@@ -14,7 +14,7 @@ export const E19: React.FC<E19Props> = ({
   <Svg
     width={width}
     height={height}
-    viewBox="0 0 100 100"
+    viewBox="0 0 403 134"
     {...props}
   >
     <Defs
